@@ -1,0 +1,15 @@
+/target/
+.idea/
+__pycache__/
+l_input_files/
+input_output_files/
+compressed_datasets/
+venv/
+l_output_files/
+Simod/
+bimp_test_examples/sim_output/
+bimp_test_examples/
+*.egg-info
+.pymon
+.DS_Store
+.vscode/
