@@ -8,9 +8,9 @@ from bpdfr_discovery.log_parser import preprocess_xes_log
 from simod.fuzzy_calendars.fuzzy_discovery import build_fuzzy_calendars
 from testing_scripts.fuzzy_scripts.fuzzy_discovery_script import discover_model_from_csv_log
 from testing_scripts.fuzzy_scripts.fuzzy_test_files import test_processes, is_syntetic, FileType, get_file_path
-from testing_scripts.fuzzy_scripts.icpm22_fuzzy_experiments_script import discover_crisp_calendars, \
+from testing_scripts.fuzzy_scripts.event_log_operations import discover_crisp_calendars, \
     simulate_and_save_crisp_model, simulate_and_save_results, discover_fuzzy_parameters, run_fuzzy_simulation, \
-    _mean_by_removing_metric_boundaries, run_crisp_simulation
+    _mean_by_removing_metric_boundaries, run_crisp_simulation, SimulationModel, _print_syntetic_header
 
 current_process = [""]
 op_parameter = ['']
@@ -19,37 +19,39 @@ is_even = [True]
 
 
 def main():
+    bayesian_optimization()
+    os._exit(0)
+
+
+def bayesian_optimization(model: SimulationModel):
     for param in ['RED']:
         op_parameter[0] = param
-        print("%s - Hyperparameter Optimization" % op_parameter[0])
+        i = model.value
+        proc_name = test_processes[i]
 
-        for i in range(6, len(test_processes)):
-            proc_name = test_processes[i]
-            print("STARTING PROCESS: %s " % proc_name)
-            if is_syntetic[proc_name]:
-                for c_type in range(1, 5):
-                    calendar_type[0] = c_type
-                    for even in [True, False]:
-                        is_even[0] = even
-                        naive_crisp_model(proc_name)
-                        for is_fuzzy in [True, False]:
-                            print('++++++++++++++ %s HYPERPARAMETER TUNNING - %s process +++++++++++++++++++++++'
-                                  % ('PROBABILISTIC' if is_fuzzy else 'CRISP', test_processes[i]))
-                            execute_optimizer(proc_name, is_fuzzy)
-            else:
-                # naive_crisp_model(proc_name)
-                for is_fuzzy in [True, False]:
+        # print('++++++++++++++ Starting Hyperparameter Optimization : %s:  +++++++++++++++++++++++' % proc_name)
+        if is_syntetic[proc_name]:
+            for c_type in range(1, 5):
+                calendar_type[0] = c_type
+                even = (SimulationModel.Loan_B.value == i)
+                is_even[0] = even
+                naive_crisp_model(proc_name)
+                for is_fuzzy in [False, True]:
                     print('++++++++++++++ %s HYPERPARAMETER TUNNING - %s process +++++++++++++++++++++++'
                           % ('PROBABILISTIC' if is_fuzzy else 'CRISP', test_processes[i]))
                     execute_optimizer(proc_name, is_fuzzy)
-
-            break
-    os._exit(0)
+        else:
+            naive_crisp_model(proc_name)
+            for is_fuzzy in [False, True]:
+                print('++++++++++++++ %s HYPERPARAMETER TUNNING - %s process +++++++++++++++++++++++'
+                      % ('PROBABILISTIC' if is_fuzzy else 'CRISP', test_processes[i]))
+                execute_optimizer(proc_name, is_fuzzy)
 
 
 def execute_optimizer(proc_name, is_fuzzy):
     if is_syntetic[proc_name]:
-        print("Calendar Type %s, Even Resource Workload: %s" % (calendar_type[0], is_even[0]))
+        _print_syntetic_header(calendar_type[0], is_even[0])
+        # print("Calendar Type %s, Even Resource Workload: %s" % (calendar_type[0], is_even[0]))
     if not is_fuzzy:
         crisp_bayesian_optimizer(proc_name)
     else:
@@ -58,9 +60,11 @@ def execute_optimizer(proc_name, is_fuzzy):
 
 def naive_crisp_model(proc_name):
     current_process[0] = proc_name
-    print('++++++++++++++ NAIVE-CRISP process model +++++++++++++++++++++++')
+    print()
+    print('++++++++++++++ NAIVE-CRISP HYPERPARAMETER TUNNING - %s process +++++++++++++++++++++++' % proc_name)
     if is_syntetic[proc_name]:
-        print("Calendar Type %s, Even Resource Workload: %s" % (calendar_type[0], is_even[0]))
+        _print_syntetic_header(calendar_type[0], is_even[0])
+        #print("Calendar Type %s, Even Resource Workload: %s" % (calendar_type[0], is_even[0]))
     crisp_discovery_function(confidence=0.0, support=0.0, participation=0.0)
     print()
 
@@ -128,12 +132,10 @@ def fuzzy_discovery_function(angle):
 
 def _get_bayesian_iteration_info(log_metrics):
     mean_metrics = _mean_by_removing_metric_boundaries(log_metrics, op_parameter[0])
-    aed, red = str(round(mean_metrics['AED'], 2)), str(round(mean_metrics['RED'], 2))
-    ced, ctd = str(round(mean_metrics['CED'], 2)), str(round(mean_metrics['CTD'], 2))
+    red = str(round(mean_metrics['RED'], 2))
+    ctd = str(round(mean_metrics['CTD'], 2))
     mtr = str(round(mean_metrics['MTR'], 3))
-    tar, wtr = str(round(mean_metrics['TAR'], 3)), str(round(mean_metrics['WTR'], 3))
-    print(f'|           |MTR: {mtr:6}|TAR: {tar:6}|WTR: {wtr:6}|')
-    print(f'|           |AED: {aed:6}|RED: {red:6}|CED: {ced:6}|CTD: {ctd:6}|')
+    print(f'|           |MMR: {mtr:6}|RED: {red:6}|CTD: {ctd:6}|')
 
     return -1 * mean_metrics[op_parameter[0]]
 

@@ -4,9 +4,8 @@ test_processes = {
     0: 'BPI_2012',
     1: 'BPI_2017',
     2: 'consulta_data_mining',
-    3: 'loan_application',
-    4: 'production',
-    5: 'insurance',
+    4: 'loan_application',
+    5: 'loan_application',
     6: 'call_centre',
 }
 

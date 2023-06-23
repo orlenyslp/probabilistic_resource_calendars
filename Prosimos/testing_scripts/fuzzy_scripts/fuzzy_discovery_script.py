@@ -1,6 +1,7 @@
 import csv
 
 import pytz
+from pathlib import Path
 
 from bpdfr_discovery.log_parser import event_list_from_csv
 from bpdfr_simulation_engine.file_manager import FileManager
@@ -40,13 +41,28 @@ def localize_datetimes(csv_log_path):
 
 
 def split_event_log(original_log_path, training_fpath, testing_fpath, training_ratio):
-    traces = event_list_from_csv(original_log_path)
-    train_length = int(training_ratio * len(traces))
+    if Path(training_fpath).is_file() and Path(testing_fpath).is_file():
+        t_train, e_train = _count_splitted_log(training_fpath)
+        t_test, e_test = _count_splitted_log(testing_fpath)
+        print("Traces in Logs -- Training: %d, Testing: %d" % (t_train, t_test))
+        print("Events in Logs -- Training: %d, Testing: %d" % (e_train, e_test))
+    else:
+        traces = event_list_from_csv(original_log_path)
+        train_length = int(training_ratio * len(traces))
 
-    train_events = _generate_and_save_log(training_fpath, traces, 0, train_length)
-    test_events = _generate_and_save_log(testing_fpath, traces, train_length, len(traces))
-    print("Traces in Logs -- Training: %d, Testing: %d" % (train_length, len(traces) - train_length))
-    print("Events in Logs -- Training: %d, Testing: %d" % (train_events, test_events))
+        train_events = _generate_and_save_log(training_fpath, traces, 0, train_length)
+        test_events = _generate_and_save_log(testing_fpath, traces, train_length, len(traces))
+        print("Traces in Logs -- Training: %d, Testing: %d" % (train_length, len(traces) - train_length))
+        print("Events in Logs -- Training: %d, Testing: %d" % (train_events, test_events))
+
+
+def _count_splitted_log(file_path):
+    traces = event_list_from_csv(file_path)
+    count_events = 0
+    for trace in traces:
+        count_events += len(trace.event_list)
+    return len(traces), count_events
+
 
 
 def _generate_and_save_log(out_log_path, in_traces, from_i, to_i):
