@@ -57,4 +57,3 @@ The script runs the 30 iterations for tuning the hyperparameters of the methods 
 The script executes the datasets in the following order: __Loan-B-24__, __Loan-U-24__, __Loan-B-8__, __Loan-U-8__,  __Loan-B-8/4__, __Loan-U-8/4__, __Loan-B-24/A__, __Loan-U-24/A__, __GOV__, __POC__, __AC-CRD__, and __WK-ORD__.
 
 Additionally, the training, testing, and simulated event logs can be found in the folder: _/probabilistic_resource_calendars/Multitasking/Prosimos/testing_scripts/assets/multitasking/_. The script produces all the files in the folder labeled with the names of the corresponding dataset. The dataset folder will also contain the BPMN model and the JSONs with the discovered simulation parameters.
-
