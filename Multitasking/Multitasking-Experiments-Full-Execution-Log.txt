@@ -1,0 +1,4481 @@
+C:\Python39\python.exe D:/Research/Implementations/Prosimos/testing_scripts/multitasking_scripts/multitasking_experiments.py
+RED - Hyperparameter Optimization
+STARTING PROCESS: loan_application (ModelType.SEQUENTIAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:03.666502
+Simulation Execution Time: 0:00:04.741918
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 149.25|RED: 148.23|CED: 0.0   |CTD: 244.58|
+| 1         | -148.2    | 0.967     |
+
+Discovery Execution Time: 0:00:03.704381
+Simulation Execution Time: 0:00:04.652871
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.54|RED: 151.22|CED: 0.0   |CTD: 244.93|
+| 2         | -151.2    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.565570
+Simulation Execution Time: 0:00:04.877238
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 145.4 |RED: 144.58|CED: 0.0   |CTD: 240.71|
+| 3         | -144.6    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.682943
+Simulation Execution Time: 0:00:04.792463
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 151.44|RED: 150.23|CED: 0.0   |CTD: 244.43|
+| 4         | -150.2    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.560252
+Simulation Execution Time: 0:00:04.452853
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 145.81|RED: 145.15|CED: 0.0   |CTD: 233.18|
+| 5         | -145.2    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.877194
+Simulation Execution Time: 0:00:04.786377
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 147.15|RED: 146.65|CED: 0.0   |CTD: 243.68|
+| 6         | -146.7    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.801957
+Simulation Execution Time: 0:00:04.659511
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 146.65|RED: 145.41|CED: 0.0   |CTD: 237.59|
+| 7         | -145.4    | 0.9728    |
+
+Discovery Execution Time: 0:00:03.647926
+Simulation Execution Time: 0:00:04.694388
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 146.96|RED: 146.4 |CED: 0.0   |CTD: 240.45|
+| 8         | -146.4    | 0.6979    |
+
+Discovery Execution Time: 0:00:03.918031
+Simulation Execution Time: 0:00:04.859661
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 150.61|RED: 149.95|CED: 0.0   |CTD: 243.36|
+| 9         | -149.9    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.710182
+Simulation Execution Time: 0:00:04.712532
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 147.25|RED: 146.4 |CED: 0.0   |CTD: 235.89|
+| 10        | -146.4    | 0.973     |
+
+Discovery Execution Time: 0:00:03.642446
+Simulation Execution Time: 0:00:04.649467
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 150.01|RED: 149.82|CED: 0.0   |CTD: 250.4 |
+| 11        | -149.8    | 0.9733    |
+
+Discovery Execution Time: 0:00:03.523392
+Simulation Execution Time: 0:00:04.769826
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 144.71|RED: 144.51|CED: 0.0   |CTD: 235.28|
+| 12        | -144.5    | 0.6983    |
+
+Discovery Execution Time: 0:00:03.905963
+Simulation Execution Time: 0:00:04.704811
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 145.72|RED: 145.54|CED: 0.0   |CTD: 241.86|
+| 13        | -145.5    | 0.6982    |
+
+Discovery Execution Time: 0:00:03.754644
+Simulation Execution Time: 0:00:05.036911
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 149.32|RED: 149.13|CED: 0.0   |CTD: 243.96|
+| 14        | -149.1    | 0.6991    |
+
+Discovery Execution Time: 0:00:03.708120
+Simulation Execution Time: 0:00:04.933658
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.55|RED: 152.27|CED: 0.0   |CTD: 247.66|
+| 15        | -152.3    | 0.6985    |
+
+Discovery Execution Time: 0:00:03.501254
+Simulation Execution Time: 0:00:04.736000
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 147.44|RED: 146.63|CED: 0.0   |CTD: 243.24|
+| 16        | -146.6    | 0.698     |
+
+Discovery Execution Time: 0:00:03.525306
+Simulation Execution Time: 0:00:04.603243
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 145.48|RED: 145.05|CED: 0.0   |CTD: 234.06|
+| 17        | -145.0    | 0.6983    |
+
+Discovery Execution Time: 0:00:03.314783
+Simulation Execution Time: 0:00:04.525088
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.56|RED: 152.23|CED: 0.0   |CTD: 243.6 |
+| 18        | -152.2    | 0.4545    |
+
+Discovery Execution Time: 0:00:03.289776
+Simulation Execution Time: 0:00:04.276357
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 153.34|RED: 152.33|CED: 0.0   |CTD: 240.88|
+| 19        | -152.3    | 0.02362   |
+
+Discovery Execution Time: 0:00:03.254035
+Simulation Execution Time: 0:00:04.777334
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 154.12|RED: 153.4 |CED: 0.0   |CTD: 239.51|
+| 20        | -153.4    | 0.03288   |
+
+Discovery Execution Time: 0:00:03.620385
+Simulation Execution Time: 0:00:04.501221
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 151.03|RED: 150.52|CED: 0.0   |CTD: 246.85|
+| 21        | -150.5    | 0.9666    |
+
+Discovery Execution Time: 0:00:03.398796
+Simulation Execution Time: 0:00:04.251710
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 142.86|RED: 142.19|CED: 0.0   |CTD: 230.71|   <---------------------------------------------------------------------
+| 22        | -142.2    | 0.9674    |
+
+Discovery Execution Time: 0:00:03.378390
+Simulation Execution Time: 0:00:04.254483
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 148.71|RED: 147.91|CED: 0.0   |CTD: 246.26|
+| 23        | -147.9    | 0.9676    |
+
+Discovery Execution Time: 0:00:03.155417
+Simulation Execution Time: 0:00:04.317468
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.57|RED: 152.38|CED: 0.0   |CTD: 248.91|
+| 24        | -152.4    | 0.4185    |
+
+Discovery Execution Time: 0:00:03.385716
+Simulation Execution Time: 0:00:04.327862
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 148.48|RED: 147.81|CED: 0.0   |CTD: 241.29|
+| 25        | -147.8    | 0.9672    |
+
+Discovery Execution Time: 0:00:03.302537
+Simulation Execution Time: 0:00:04.345750
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 148.93|RED: 148.04|CED: 0.0   |CTD: 243.02|
+| 26        | -148.0    | 0.9674    |
+
+Discovery Execution Time: 0:00:03.367396
+Simulation Execution Time: 0:00:04.280129
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 146.53|RED: 145.74|CED: 0.0   |CTD: 238.9 |
+| 27        | -145.7    | 0.9729    |
+
+Discovery Execution Time: 0:00:03.397169
+Simulation Execution Time: 0:00:04.293693
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 146.34|RED: 146.0 |CED: 0.0   |CTD: 243.04|
+| 28        | -146.0    | 0.9446    |
+
+Discovery Execution Time: 0:00:03.280901
+Simulation Execution Time: 0:00:04.320624
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 149.35|RED: 148.66|CED: 0.0   |CTD: 243.56|
+| 29        | -148.7    | 0.9447    |
+
+Discovery Execution Time: 0:00:03.379962
+Simulation Execution Time: 0:00:04.261532
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 144.15|RED: 144.14|CED: 0.0   |CTD: 240.71|
+| 30        | -144.1    | 0.9444    |
+=====================================
+Best result: {'angle': 0.9674358571993169}; f(x) = -142.18854453498088.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:03.412918
+Simulation Execution Time: 0:00:04.322642
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 154.16|RED: 154.03|CED: 0.0   |CTD: 253.89|
+| 1         | -154.0    | 0.967     |
+
+Discovery Execution Time: 0:00:03.363004
+Simulation Execution Time: 0:00:04.316266
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 156.97|RED: 156.44|CED: 0.0   |CTD: 259.16|
+| 2         | -156.4    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.379957
+Simulation Execution Time: 0:00:04.395982
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 155.4 |RED: 154.97|CED: 0.0   |CTD: 248.34|
+| 3         | -155.0    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.333125
+Simulation Execution Time: 0:00:04.373699
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 157.11|RED: 156.9 |CED: 0.0   |CTD: 260.93|
+| 4         | -156.9    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.303204
+Simulation Execution Time: 0:00:04.393653
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 159.64|RED: 159.91|CED: 0.0   |CTD: 265.11|
+| 5         | -159.9    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.329098
+Simulation Execution Time: 0:00:04.329425
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 153.95|RED: 153.8 |CED: 0.0   |CTD: 253.25|
+| 6         | -153.8    | 0.967     |
+
+Discovery Execution Time: 0:00:03.374976
+Simulation Execution Time: 0:00:04.332468
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 151.33|RED: 151.7 |CED: 0.0   |CTD: 250.41|
+| 7         | -151.7    | 0.9666    |
+
+Discovery Execution Time: 0:00:03.335124
+Simulation Execution Time: 0:00:04.245847
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 150.13|RED: 150.13|CED: 0.0   |CTD: 248.04|  <--------------------------------------------------------------
+| 8         | -150.1    | 0.9658    |
+
+Discovery Execution Time: 0:00:03.309157
+Simulation Execution Time: 0:00:04.370718
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 157.39|RED: 157.55|CED: 0.0   |CTD: 263.89|
+| 9         | -157.6    | 0.9649    |
+
+Discovery Execution Time: 0:00:03.416173
+Simulation Execution Time: 0:00:04.437094
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 153.47|RED: 153.76|CED: 0.0   |CTD: 258.6 |
+| 10        | -153.8    | 0.9662    |
+
+Discovery Execution Time: 0:00:03.379918
+Simulation Execution Time: 0:00:04.350191
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.81|RED: 152.19|CED: 0.0   |CTD: 251.4 |
+| 11        | -152.2    | 0.9656    |
+
+Discovery Execution Time: 0:00:03.378379
+Simulation Execution Time: 0:00:04.321515
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 150.63|RED: 150.33|CED: 0.0   |CTD: 244.0 |
+| 12        | -150.3    | 0.8494    |
+
+Discovery Execution Time: 0:00:03.344621
+Simulation Execution Time: 0:00:04.339389
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 155.57|RED: 155.25|CED: 0.0   |CTD: 255.99|
+| 13        | -155.2    | 0.8498    |
+
+Discovery Execution Time: 0:00:03.807774
+Simulation Execution Time: 0:00:04.722530
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 154.14|RED: 153.84|CED: 0.0   |CTD: 256.01|
+| 14        | -153.8    | 0.8491    |
+
+Discovery Execution Time: 0:00:03.237404
+Simulation Execution Time: 0:00:04.296294
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 157.7 |RED: 158.12|CED: 0.0   |CTD: 260.0 |
+| 15        | -158.1    | 0.3612    |
+
+Discovery Execution Time: 0:00:03.147515
+Simulation Execution Time: 0:00:04.301508
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 164.04|RED: 163.71|CED: 0.0   |CTD: 264.04|
+| 16        | -163.7    | 0.0637    |
+
+Discovery Execution Time: 0:00:03.393360
+Simulation Execution Time: 0:00:04.408456
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.94|RED: 153.05|CED: 0.0   |CTD: 247.55|
+| 17        | -153.0    | 0.9737    |
+
+Discovery Execution Time: 0:00:03.348425
+Simulation Execution Time: 0:00:04.341864
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 158.56|RED: 158.52|CED: 0.0   |CTD: 263.33|
+| 18        | -158.5    | 0.9745    |
+
+Discovery Execution Time: 0:00:03.310615
+Simulation Execution Time: 0:00:04.358648
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 150.84|RED: 150.68|CED: 0.0   |CTD: 248.08|
+| 19        | -150.7    | 0.9733    |
+
+Discovery Execution Time: 0:00:03.125868
+Simulation Execution Time: 0:00:04.362456
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 159.95|RED: 160.28|CED: 0.0   |CTD: 257.83|
+| 20        | -160.3    | 0.03288   |
+
+Discovery Execution Time: 0:00:03.153300
+Simulation Execution Time: 0:00:04.284458
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 155.03|RED: 155.14|CED: 0.0   |CTD: 252.95|
+| 21        | -155.1    | 0.2171    |
+
+Discovery Execution Time: 0:00:03.084486
+Simulation Execution Time: 0:00:04.273734
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 160.77|RED: 160.99|CED: 0.0   |CTD: 265.24|
+| 22        | -161.0    | 0.2183    |
+
+Discovery Execution Time: 0:00:03.164082
+Simulation Execution Time: 0:00:04.308432
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 156.87|RED: 156.63|CED: 0.0   |CTD: 252.8 |
+| 23        | -156.6    | 0.2161    |
+
+Discovery Execution Time: 0:00:03.198980
+Simulation Execution Time: 0:00:04.310074
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 164.61|RED: 164.47|CED: 0.0   |CTD: 267.98|
+| 24        | -164.5    | 0.4185    |
+
+Discovery Execution Time: 0:00:03.381545
+Simulation Execution Time: 0:00:04.400901
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.04|RED: 151.48|CED: 0.0   |CTD: 244.01|
+| 25        | -151.5    | 0.8918    |
+
+Discovery Execution Time: 0:00:03.362875
+Simulation Execution Time: 0:00:04.384495
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 154.91|RED: 154.78|CED: 0.0   |CTD: 253.1 |
+| 26        | -154.8    | 0.8922    |
+
+Discovery Execution Time: 0:00:03.302646
+Simulation Execution Time: 0:00:04.385234
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 152.98|RED: 152.79|CED: 0.0   |CTD: 248.34|
+| 27        | -152.8    | 0.8913    |
+
+Discovery Execution Time: 0:00:03.396861
+Simulation Execution Time: 0:00:04.338322
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 161.22|RED: 160.57|CED: 0.0   |CTD: 267.62|
+| 28        | -160.6    | 0.8906    |
+
+Discovery Execution Time: 0:00:03.324256
+Simulation Execution Time: 0:00:04.340281
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 154.62|RED: 154.1 |CED: 0.0   |CTD: 258.7 |
+| 29        | -154.1    | 0.8617    |
+
+Discovery Execution Time: 0:00:03.387906
+Simulation Execution Time: 0:00:04.345539
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 156.79|RED: 156.65|CED: 0.0   |CTD: 264.33|
+| 30        | -156.7    | 0.861     |
+=====================================
+Best result: {'angle': 0.9658492463495968}; f(x) = -150.1291990665682.
+STARTING PROCESS: loan_application (ModelType.MULTI_GLOBAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.167703
+Simulation Execution Time: 0:00:04.675071
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.24  |RED: 0.99  |CED: 0.0   |CTD: 1.41  |
+| 1         | -0.9882   | 0.967     |
+
+Discovery Execution Time: 0:00:04.063487
+Simulation Execution Time: 0:00:04.861530
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.12  |RED: 1.02  |CED: 0.0   |CTD: 1.41  |
+| 2         | -1.025    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.406916
+Simulation Execution Time: 0:00:05.148085
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.34  |RED: 1.02  |CED: 0.0   |CTD: 1.43  |
+| 3         | -1.017    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.418652
+Simulation Execution Time: 0:00:05.153911
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.14  |RED: 1.03  |CED: 0.0   |CTD: 1.42  |
+| 4         | -1.028    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.370420
+Simulation Execution Time: 0:00:05.153907
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.19  |RED: 1.0   |CED: 0.0   |CTD: 1.37  |
+| 5         | -1.004    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.391425
+Simulation Execution Time: 0:00:05.196228
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.21  |RED: 0.98  |CED: 0.0   |CTD: 1.38  |
+| 6         | -0.9764   | 0.967     |
+
+Discovery Execution Time: 0:00:04.381410
+Simulation Execution Time: 0:00:05.143774
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.13  |RED: 1.0   |CED: 0.0   |CTD: 1.34  |
+| 7         | -0.9978   | 0.9669    |
+
+Discovery Execution Time: 0:00:04.361346
+Simulation Execution Time: 0:00:05.225956
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 1.0   |CED: 0.0   |CTD: 1.39  |
+| 8         | -0.996    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.462837
+Simulation Execution Time: 0:00:05.204976
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.46  |RED: 0.99  |CED: 0.0   |CTD: 1.39  |
+| 9         | -0.9943   | 0.6973    |
+
+Discovery Execution Time: 0:00:04.389854
+Simulation Execution Time: 0:00:05.206906
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.46  |RED: 0.99  |CED: 0.0   |CTD: 1.36  |
+| 10        | -0.9909   | 0.6975    |
+
+Discovery Execution Time: 0:00:04.372008
+Simulation Execution Time: 0:00:05.116714
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.48  |RED: 1.01  |CED: 0.0   |CTD: 1.46  |
+| 11        | -1.013    | 0.6971    |
+
+Discovery Execution Time: 0:00:04.395309
+Simulation Execution Time: 0:00:05.273397
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.03  |RED: 0.95  |CED: 0.0   |CTD: 1.35  |
+| 12        | -0.9523   | 0.8494    |
+
+Discovery Execution Time: 0:00:04.438956
+Simulation Execution Time: 0:00:05.296987
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 0.95  |CED: 0.0   |CTD: 1.36  |
+| 13        | -0.9532   | 0.8494    |
+
+Discovery Execution Time: 0:00:04.484629
+Simulation Execution Time: 0:00:05.036558
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.09  |RED: 0.96  |CED: 0.0   |CTD: 1.31  |
+| 14        | -0.959    | 0.8495    |
+
+Discovery Execution Time: 0:00:04.407928
+Simulation Execution Time: 0:00:04.870687
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.47  |RED: 1.01  |CED: 0.0   |CTD: 1.44  |
+| 15        | -1.013    | 0.8493    |
+
+Discovery Execution Time: 0:00:04.114071
+Simulation Execution Time: 0:00:05.124719
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.26  |RED: 1.02  |CED: 0.0   |CTD: 1.36  |
+| 16        | -1.02     | 0.8499    |
+
+Discovery Execution Time: 0:00:04.218731
+Simulation Execution Time: 0:00:04.854044
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.09  |RED: 1.01  |CED: 0.0   |CTD: 1.38  |
+| 17        | -1.01     | 0.8272    |
+
+Discovery Execution Time: 0:00:04.310607
+Simulation Execution Time: 0:00:04.962796
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.02  |CED: 0.0   |CTD: 1.34  |
+| 18        | -1.023    | 0.8496    |
+
+Discovery Execution Time: 0:00:03.927697
+Simulation Execution Time: 0:00:05.172400
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.24  |RED: 1.0   |CED: 0.0   |CTD: 1.46  |
+| 19        | -0.9985   | 0.02362   |
+
+Discovery Execution Time: 0:00:04.333599
+Simulation Execution Time: 0:00:05.136679
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.29  |RED: 0.95  |CED: 0.0   |CTD: 1.36  |
+| 20        | -0.9548   | 0.03288   |
+
+Discovery Execution Time: 0:00:03.970210
+Simulation Execution Time: 0:00:04.932493
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.18  |RED: 0.99  |CED: 0.0   |CTD: 1.37  |
+| 21        | -0.99     | 0.03296   |
+
+Discovery Execution Time: 0:00:04.094146
+Simulation Execution Time: 0:00:04.925331
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.08  |RED: 0.98  |CED: 0.0   |CTD: 1.37  |
+| 22        | -0.9843   | 0.03272   |
+
+Discovery Execution Time: 0:00:04.110673
+Simulation Execution Time: 0:00:04.958471
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.19  |RED: 0.97  |CED: 0.0   |CTD: 1.36  |
+| 23        | -0.9744   | 0.03242   |
+
+Discovery Execution Time: 0:00:04.088422
+Simulation Execution Time: 0:00:04.977883
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.29  |RED: 1.0   |CED: 0.0   |CTD: 1.41  |
+| 24        | -1.003    | 0.03249   |
+
+Discovery Execution Time: 0:00:04.051030
+Simulation Execution Time: 0:00:04.991525
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.17  |RED: 0.94  |CED: 0.0   |CTD: 1.28  | <------------------------------------------------------------
+| 25        | -0.9379   | 0.0328    |
+
+Discovery Execution Time: 0:00:04.066982
+Simulation Execution Time: 0:00:04.838517
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.16  |RED: 1.0   |CED: 0.0   |CTD: 1.36  |
+| 26        | -1.002    | 0.03235   |
+
+Discovery Execution Time: 0:00:04.107032
+Simulation Execution Time: 0:00:04.968047
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.26  |RED: 0.96  |CED: 0.0   |CTD: 1.42  |
+| 27        | -0.9623   | 0.0728    |
+
+Discovery Execution Time: 0:00:04.635141
+Simulation Execution Time: 0:00:05.469628
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.31  |RED: 0.98  |CED: 0.0   |CTD: 1.38  |
+| 28        | -0.9834   | 0.03282   |
+
+Discovery Execution Time: 0:00:04.173560
+Simulation Execution Time: 0:00:05.100416
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.15  |RED: 0.99  |CED: 0.0   |CTD: 1.42  |
+| 29        | -0.9877   | 0.8494    |
+
+Discovery Execution Time: 0:00:03.745051
+Simulation Execution Time: 0:00:05.150870
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 0.99  |RED: 0.95  |CED: 0.0   |CTD: 1.35  |
+| 30        | -0.9455   | 0.03278   |
+=====================================
+Best result: {'angle': 0.03280356477282642}; f(x) = -0.9378687796082387.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.235187
+Simulation Execution Time: 0:00:05.065700
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.49  |RED: 1.1   |CED: 0.0   |CTD: 1.96  |
+| 1         | -1.099    | 0.967     |
+
+Discovery Execution Time: 0:00:04.185883
+Simulation Execution Time: 0:00:05.011933
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.34  |RED: 1.1   |CED: 0.0   |CTD: 1.96  |
+| 2         | -1.096    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.234008
+Simulation Execution Time: 0:00:05.129686
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.28  |RED: 1.1   |CED: 0.0   |CTD: 2.01  |
+| 3         | -1.095    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.127462
+Simulation Execution Time: 0:00:05.182770
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.11  |RED: 1.07  |CED: 0.0   |CTD: 1.96  |
+| 4         | -1.067    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.986986
+Simulation Execution Time: 0:00:04.877756
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.24  |RED: 1.01  |CED: 0.0   |CTD: 1.76  |
+| 5         | -1.015    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.021535
+Simulation Execution Time: 0:00:04.867730
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.32  |RED: 1.1   |CED: 0.0   |CTD: 2.04  |
+| 6         | -1.096    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.006442
+Simulation Execution Time: 0:00:04.786721
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.52  |RED: 1.04  |CED: 0.0   |CTD: 1.79  |
+| 7         | -1.038    | 0.6978    |
+
+Discovery Execution Time: 0:00:03.977884
+Simulation Execution Time: 0:00:04.844913
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.57  |RED: 1.11  |CED: 0.0   |CTD: 1.74  |
+| 8         | -1.106    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.991717
+Simulation Execution Time: 0:00:04.849163
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.45  |RED: 1.09  |CED: 0.0   |CTD: 1.83  |
+| 9         | -1.087    | 0.6978    |
+
+Discovery Execution Time: 0:00:03.994910
+Simulation Execution Time: 0:00:04.982695
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.54  |RED: 1.12  |CED: 0.0   |CTD: 1.97  |
+| 10        | -1.125    | 0.7147    |
+
+Discovery Execution Time: 0:00:03.957419
+Simulation Execution Time: 0:00:04.841056
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.49  |RED: 1.13  |CED: 0.0   |CTD: 2.09  |
+| 11        | -1.128    | 0.8958    |
+
+Discovery Execution Time: 0:00:04.130073
+Simulation Execution Time: 0:00:05.050186
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.09  |RED: 1.1   |CED: 0.0   |CTD: 1.89  |
+| 12        | -1.102    | 0.8494    |
+
+Discovery Execution Time: 0:00:04.342732
+Simulation Execution Time: 0:00:05.076601
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.3   |RED: 1.09  |CED: 0.0   |CTD: 1.82  |
+| 13        | -1.086    | 0.7       |
+
+Discovery Execution Time: 0:00:04.096741
+Simulation Execution Time: 0:00:05.020077
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.19  |RED: 1.12  |CED: 0.0   |CTD: 2.08  |
+| 14        | -1.123    | 0.7001    |
+
+Discovery Execution Time: 0:00:03.951633
+Simulation Execution Time: 0:00:04.923796
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.37  |RED: 1.13  |CED: 0.0   |CTD: 2.12  |
+| 15        | -1.129    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.005615
+Simulation Execution Time: 0:00:04.844354
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.19  |RED: 1.04  |CED: 0.0   |CTD: 1.78  |
+| 16        | -1.041    | 0.6999    |
+
+Discovery Execution Time: 0:00:04.025829
+Simulation Execution Time: 0:00:05.546899
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.31  |RED: 1.1   |CED: 0.0   |CTD: 1.86  |
+| 17        | -1.097    | 0.6999    |
+
+Discovery Execution Time: 0:00:05.528429
+Simulation Execution Time: 0:00:07.312520
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.26  |RED: 1.15  |CED: 0.0   |CTD: 2.0   |
+| 18        | -1.149    | 0.6999    |
+
+Discovery Execution Time: 0:00:05.897021
+Simulation Execution Time: 0:00:07.249501
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 1.03  |CED: 0.0   |CTD: 1.78  |
+| 19        | -1.029    | 0.6979    |
+
+Discovery Execution Time: 0:00:06.550980
+Simulation Execution Time: 0:00:07.083117
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.46  |RED: 1.06  |CED: 0.0   |CTD: 1.86  |
+| 20        | -1.057    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.961775
+Simulation Execution Time: 0:00:07.581336
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.16  |RED: 1.09  |CED: 0.0   |CTD: 1.98  |
+| 21        | -1.091    | 0.6999    |
+
+Discovery Execution Time: 0:00:07.168502
+Simulation Execution Time: 0:00:06.438971
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.56  |RED: 1.15  |CED: 0.0   |CTD: 2.03  |
+| 22        | -1.15     | 0.7373    |
+
+Discovery Execution Time: 0:00:04.026772
+Simulation Execution Time: 0:00:04.804948
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.18  |RED: 1.06  |CED: 0.0   |CTD: 1.97  |
+| 23        | -1.062    | 0.6979    |
+
+Discovery Execution Time: 0:00:04.235317
+Simulation Execution Time: 0:00:05.139220
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.34  |RED: 1.1   |CED: 0.0   |CTD: 1.99  |
+| 24        | -1.098    | 0.6979    |
+
+Discovery Execution Time: 0:00:04.232360
+Simulation Execution Time: 0:00:05.131576
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.16  |RED: 1.01  |CED: 0.0   |CTD: 1.88  |  <---------------------------------------------------------
+| 25        | -1.006    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.166089
+Simulation Execution Time: 0:00:05.079629
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.27  |RED: 1.08  |CED: 0.0   |CTD: 1.85  |
+| 26        | -1.077    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.200495
+Simulation Execution Time: 0:00:05.076410
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.26  |RED: 1.09  |CED: 0.0   |CTD: 1.95  |
+| 27        | -1.093    | 0.698     |
+
+Discovery Execution Time: 0:00:04.227666
+Simulation Execution Time: 0:00:05.046857
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.27  |RED: 1.11  |CED: 0.0   |CTD: 1.9   |
+| 28        | -1.106    | 0.9446    |
+
+Discovery Execution Time: 0:00:04.172324
+Simulation Execution Time: 0:00:05.071283
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.34  |RED: 1.15  |CED: 0.0   |CTD: 1.99  |
+| 29        | -1.146    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.301695
+Simulation Execution Time: 0:00:05.215095
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.29  |RED: 1.08  |CED: 0.0   |CTD: 1.88  |
+| 30        | -1.079    | 0.6979    |
+=====================================
+Best result: {'angle': 0.6977850075333529}; f(x) = -1.0061330227361795.
+STARTING PROCESS: loan_application (ModelType.MULTI_LOCAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.048746
+Simulation Execution Time: 0:00:05.844682
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.12  |RED: 0.94  |CED: 0.0   |CTD: 1.28  |
+| 1         | -0.9426   | 0.967     |
+
+Discovery Execution Time: 0:00:04.907685
+Simulation Execution Time: 0:00:05.753408
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.06  |RED: 1.02  |CED: 0.0   |CTD: 1.45  |
+| 2         | -1.023    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.879491
+Simulation Execution Time: 0:00:05.835527
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 0.99  |CED: 0.0   |CTD: 1.35  |
+| 3         | -0.9935   | 0.9727    |
+
+Discovery Execution Time: 0:00:04.585422
+Simulation Execution Time: 0:00:05.296353
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.25  |RED: 1.05  |CED: 0.0   |CTD: 1.5   |
+| 4         | -1.049    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.530236
+Simulation Execution Time: 0:00:05.442803
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.38  |RED: 0.98  |CED: 0.0   |CTD: 1.34  |
+| 5         | -0.977    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.511418
+Simulation Execution Time: 0:00:05.426120
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.11  |RED: 0.99  |CED: 0.0   |CTD: 1.34  |
+| 6         | -0.9896   | 0.967     |
+
+Discovery Execution Time: 0:00:04.555064
+Simulation Execution Time: 0:00:05.335315
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.15  |RED: 1.07  |CED: 0.0   |CTD: 1.53  |
+| 7         | -1.069    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.522416
+Simulation Execution Time: 0:00:05.384583
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.22  |RED: 1.0   |CED: 0.0   |CTD: 1.4   |
+| 8         | -1.001    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.496828
+Simulation Execution Time: 0:00:05.363541
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.15  |RED: 1.0   |CED: 0.0   |CTD: 1.39  |
+| 9         | -1.001    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.508286
+Simulation Execution Time: 0:00:05.368575
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.22  |RED: 0.97  |CED: 0.0   |CTD: 1.41  |
+| 10        | -0.9709   | 0.6976    |
+
+Discovery Execution Time: 0:00:04.546533
+Simulation Execution Time: 0:00:05.756580
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.04  |RED: 1.06  |CED: 0.0   |CTD: 1.48  |
+| 11        | -1.062    | 0.9726    |
+
+Discovery Execution Time: 0:00:04.839658
+Simulation Execution Time: 0:00:05.742292
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.25  |RED: 0.98  |CED: 0.0   |CTD: 1.41  |
+| 12        | -0.9822   | 0.6977    |
+
+Discovery Execution Time: 0:00:05.099836
+Simulation Execution Time: 0:00:05.971810
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.38  |RED: 1.0   |CED: 0.0   |CTD: 1.38  |
+| 13        | -1.005    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.956864
+Simulation Execution Time: 0:00:05.939111
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.24  |RED: 0.95  |CED: 0.0   |CTD: 1.33  |
+| 14        | -0.9533   | 0.967     |
+
+Discovery Execution Time: 0:00:04.530042
+Simulation Execution Time: 0:00:05.899867
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.16  |RED: 1.02  |CED: 0.0   |CTD: 1.42  |
+| 15        | -1.019    | 0.6975    |
+
+Discovery Execution Time: 0:00:04.494814
+Simulation Execution Time: 0:00:05.299920
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.13  |RED: 1.0   |CED: 0.0   |CTD: 1.42  |
+| 16        | -1.005    | 0.0637    |
+
+Discovery Execution Time: 0:00:04.967729
+Simulation Execution Time: 0:00:05.860758
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.36  |RED: 1.02  |CED: 0.0   |CTD: 1.42  |
+| 17        | -1.021    | 0.8272    |
+
+Discovery Execution Time: 0:00:04.666061
+Simulation Execution Time: 0:00:05.573129
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.3   |RED: 1.04  |CED: 0.0   |CTD: 1.48  |
+| 18        | -1.045    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.729215
+Simulation Execution Time: 0:00:05.637247
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.21  |RED: 1.02  |CED: 0.0   |CTD: 1.37  |
+| 19        | -1.022    | 0.9728    |
+
+Discovery Execution Time: 0:00:04.711005
+Simulation Execution Time: 0:00:05.642359
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.32  |RED: 1.03  |CED: 0.0   |CTD: 1.44  |
+| 20        | -1.025    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.457154
+Simulation Execution Time: 0:00:05.511687
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.09  |RED: 0.94  |CED: 0.0   |CTD: 1.38  |   <----------------------------------------------
+| 21        | -0.942    | 0.06375   |
+
+Discovery Execution Time: 0:00:04.531585
+Simulation Execution Time: 0:00:05.565198
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.26  |RED: 1.0   |CED: 0.0   |CTD: 1.48  |
+| 22        | -0.9983   | 0.06379   |
+
+Discovery Execution Time: 0:00:04.477085
+Simulation Execution Time: 0:00:05.551978
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.21  |RED: 1.01  |CED: 0.0   |CTD: 1.42  |
+| 23        | -1.013    | 0.3795    |
+
+Discovery Execution Time: 0:00:04.550867
+Simulation Execution Time: 0:00:05.547871
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.07  |CED: 0.0   |CTD: 1.45  |
+| 24        | -1.066    | 0.4185    |
+
+Discovery Execution Time: 0:00:04.842080
+Simulation Execution Time: 0:00:05.692380
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.31  |RED: 1.03  |CED: 0.0   |CTD: 1.42  |
+| 25        | -1.031    | 0.9668    |
+
+Discovery Execution Time: 0:00:04.886692
+Simulation Execution Time: 0:00:05.768374
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.11  |RED: 0.97  |CED: 0.0   |CTD: 1.34  |
+| 26        | -0.972    | 0.06362   |
+
+Discovery Execution Time: 0:00:04.635944
+Simulation Execution Time: 0:00:05.858955
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 0.98  |CED: 0.0   |CTD: 1.43  |
+| 27        | -0.9826   | 0.06377   |
+
+Discovery Execution Time: 0:00:05.778577
+Simulation Execution Time: 0:00:05.458006
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.3   |RED: 1.05  |CED: 0.0   |CTD: 1.45  |
+| 28        | -1.045    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.379254
+Simulation Execution Time: 0:00:05.394691
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.17  |RED: 0.97  |CED: 0.0   |CTD: 1.36  |
+| 29        | -0.9694   | 0.06353   |
+
+Discovery Execution Time: 0:00:04.275645
+Simulation Execution Time: 0:00:05.151244
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.02  |RED: 0.99  |CED: 0.0   |CTD: 1.41  |
+| 30        | -0.99     | 0.06366   |
+=====================================
+Best result: {'angle': 0.0637507796514597}; f(x) = -0.9420360853395463.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 1, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.584708
+Simulation Execution Time: 0:00:05.545863
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 1.08  |CED: 0.0   |CTD: 1.9   |
+| 1         | -1.081    | 0.967     |
+
+Discovery Execution Time: 0:00:04.491609
+Simulation Execution Time: 0:00:05.527519
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.12  |RED: 1.1   |CED: 0.0   |CTD: 1.97  |
+| 2         | -1.102    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.468825
+Simulation Execution Time: 0:00:05.583610
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.3   |RED: 1.2   |CED: 0.0   |CTD: 2.18  |
+| 3         | -1.197    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.574524
+Simulation Execution Time: 0:00:05.528833
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.17  |RED: 1.09  |CED: 0.0   |CTD: 1.93  |
+| 4         | -1.087    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.517964
+Simulation Execution Time: 0:00:05.541158
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.22  |RED: 1.06  |CED: 0.0   |CTD: 1.94  |
+| 5         | -1.064    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.584585
+Simulation Execution Time: 0:00:05.571403
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.1   |RED: 1.07  |CED: 0.0   |CTD: 1.82  |
+| 6         | -1.07     | 0.7148    |
+
+Discovery Execution Time: 0:00:04.515584
+Simulation Execution Time: 0:00:05.555391
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.36  |RED: 1.06  |CED: 0.0   |CTD: 1.92  |
+| 7         | -1.062    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.474717
+Simulation Execution Time: 0:00:05.631020
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.22  |RED: 1.12  |CED: 0.0   |CTD: 2.02  |
+| 8         | -1.118    | 0.7151    |
+
+Discovery Execution Time: 0:00:04.515656
+Simulation Execution Time: 0:00:05.608743
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.23  |RED: 1.1   |CED: 0.0   |CTD: 1.93  |
+| 9         | -1.105    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.534160
+Simulation Execution Time: 0:00:05.573199
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.08  |RED: 1.07  |CED: 0.0   |CTD: 1.92  |
+| 10        | -1.072    | 0.6975    |
+
+Discovery Execution Time: 0:00:04.560510
+Simulation Execution Time: 0:00:05.571853
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.23  |RED: 1.1   |CED: 0.0   |CTD: 2.04  |
+| 11        | -1.099    | 0.6979    |
+
+Discovery Execution Time: 0:00:04.498673
+Simulation Execution Time: 0:00:05.574669
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.31  |RED: 1.09  |CED: 0.0   |CTD: 2.01  |
+| 12        | -1.085    | 0.6974    |
+
+Discovery Execution Time: 0:00:04.612624
+Simulation Execution Time: 0:00:05.489048
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.34  |RED: 1.09  |CED: 0.0   |CTD: 2.0   |
+| 13        | -1.088    | 0.9672    |
+
+Discovery Execution Time: 0:00:04.893708
+Simulation Execution Time: 0:00:05.940215
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.17  |RED: 1.08  |CED: 0.0   |CTD: 1.89  |
+| 14        | -1.08     | 0.6971    |
+
+Discovery Execution Time: 0:00:04.915046
+Simulation Execution Time: 0:00:05.961520
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.42  |RED: 1.07  |CED: 0.0   |CTD: 1.84  |
+| 15        | -1.07     | 0.697     |
+
+Discovery Execution Time: 0:00:04.646534
+Simulation Execution Time: 0:00:05.746618
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.18  |RED: 1.11  |CED: 0.0   |CTD: 1.93  |
+| 16        | -1.108    | 0.9674    |
+
+Discovery Execution Time: 0:00:04.796926
+Simulation Execution Time: 0:00:06.058315
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.15  |CED: 0.0   |CTD: 1.87  |
+| 17        | -1.147    | 0.7149    |
+
+Discovery Execution Time: 0:00:04.900134
+Simulation Execution Time: 0:00:06.038891
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.35  |RED: 1.09  |CED: 0.0   |CTD: 1.9   |
+| 18        | -1.087    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.753119
+Simulation Execution Time: 0:00:05.927291
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.31  |RED: 1.08  |CED: 0.0   |CTD: 1.8   |
+| 19        | -1.084    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.831149
+Simulation Execution Time: 0:00:05.906162
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.27  |RED: 1.21  |CED: 0.0   |CTD: 2.12  |
+| 20        | -1.205    | 0.6969    |
+
+Discovery Execution Time: 0:00:04.797806
+Simulation Execution Time: 0:00:05.909016
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.14  |RED: 1.06  |CED: 0.0   |CTD: 1.85  |
+| 21        | -1.056    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.823988
+Simulation Execution Time: 0:00:06.010739
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.21  |RED: 1.1   |CED: 0.0   |CTD: 2.02  |
+| 22        | -1.099    | 0.6974    |
+
+Discovery Execution Time: 0:00:04.801820
+Simulation Execution Time: 0:00:06.064879
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.32  |RED: 1.04  |CED: 0.0   |CTD: 1.81  |
+| 23        | -1.039    | 0.967     |
+
+Discovery Execution Time: 0:00:04.753961
+Simulation Execution Time: 0:00:05.935273
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.11  |RED: 1.04  |CED: 0.0   |CTD: 1.92  | <-----------------------------------------------
+| 24        | -1.037    | 0.4185    |
+
+Discovery Execution Time: 0:00:04.875784
+Simulation Execution Time: 0:00:06.049387
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.11  |CED: 0.0   |CTD: 2.08  |
+| 25        | -1.114    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.894710
+Simulation Execution Time: 0:00:06.145161
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.22  |RED: 1.11  |CED: 0.0   |CTD: 1.85  |
+| 26        | -1.111    | 0.697     |
+
+Discovery Execution Time: 0:00:04.369987
+Simulation Execution Time: 0:00:05.517290
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.13  |RED: 1.1   |CED: 0.0   |CTD: 1.8   |
+| 27        | -1.099    | 0.4184    |
+
+Discovery Execution Time: 0:00:04.657732
+Simulation Execution Time: 0:00:05.597261
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.07  |CED: 0.0   |CTD: 1.86  |
+| 28        | -1.073    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.603066
+Simulation Execution Time: 0:00:05.550753
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.2   |RED: 1.11  |CED: 0.0   |CTD: 1.91  |
+| 29        | -1.113    | 0.967     |
+
+Discovery Execution Time: 0:00:04.552516
+Simulation Execution Time: 0:00:05.483504
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.17  |RED: 1.11  |CED: 0.0   |CTD: 1.98  |
+| 30        | -1.105    | 0.6977    |
+=====================================
+
+Best result: {'angle': 0.4184739620958078}; f(x) = -1.03737600548641.
+STARTING PROCESS: loan_application (ModelType.SEQUENTIAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:03.797307
+Simulation Execution Time: 0:00:05.474592
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 338.33|RED: 338.25|CED: 0.0   |CTD: 668.22|
+| 1         | -338.3    | 0.967     |
+
+Discovery Execution Time: 0:00:03.391394
+Simulation Execution Time: 0:00:05.275073
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 387.0 |RED: 386.6 |CED: 0.0   |CTD: 727.29|
+| 2         | -386.6    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.693141
+Simulation Execution Time: 0:00:05.536423
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 344.27|RED: 343.68|CED: 0.0   |CTD: 676.87|
+| 3         | -343.7    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.570539
+Simulation Execution Time: 0:00:05.395096
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 362.29|RED: 361.84|CED: 0.0   |CTD: 686.96|
+| 4         | -361.8    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.557102
+Simulation Execution Time: 0:00:05.346348
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 362.5 |RED: 361.69|CED: 0.0   |CTD: 684.76|
+| 5         | -361.7    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.700169
+Simulation Execution Time: 0:00:05.503715
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 317.32|RED: 317.03|CED: 0.0   |CTD: 605.72| <----------------------------------------------------------
+| 6         | -317.0    | 0.967     |
+
+Discovery Execution Time: 0:00:03.703073
+Simulation Execution Time: 0:00:05.496086
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 372.64|RED: 372.37|CED: 0.0   |CTD: 743.04|
+| 7         | -372.4    | 0.9669    |
+
+Discovery Execution Time: 0:00:03.804775
+Simulation Execution Time: 0:00:05.550539
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 345.32|RED: 344.65|CED: 0.0   |CTD: 657.56|
+| 8         | -344.6    | 0.967     |
+
+Discovery Execution Time: 0:00:03.774975
+Simulation Execution Time: 0:00:05.447998
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 332.07|RED: 332.02|CED: 0.0   |CTD: 642.47|
+| 9         | -332.0    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.755481
+Simulation Execution Time: 0:00:05.378152
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 334.31|RED: 334.14|CED: 0.0   |CTD: 643.6 |
+| 10        | -334.1    | 0.9672    |
+
+Discovery Execution Time: 0:00:03.817658
+Simulation Execution Time: 0:00:05.412035
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 344.68|RED: 343.75|CED: 0.0   |CTD: 661.41|
+| 11        | -343.7    | 0.9726    |
+
+Discovery Execution Time: 0:00:03.718040
+Simulation Execution Time: 0:00:05.485334
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 366.04|RED: 365.65|CED: 0.0   |CTD: 716.79|
+| 12        | -365.7    | 0.9671    |
+
+Discovery Execution Time: 0:00:03.737155
+Simulation Execution Time: 0:00:05.453160
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 327.79|RED: 327.63|CED: 0.0   |CTD: 623.41|
+| 13        | -327.6    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.709760
+Simulation Execution Time: 0:00:05.492953
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 357.13|RED: 356.67|CED: 0.0   |CTD: 692.9 |
+| 14        | -356.7    | 0.9728    |
+
+Discovery Execution Time: 0:00:03.784569
+Simulation Execution Time: 0:00:05.400885
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 340.46|RED: 340.14|CED: 0.0   |CTD: 660.25|
+| 15        | -340.1    | 0.9728    |
+
+Discovery Execution Time: 0:00:03.738141
+Simulation Execution Time: 0:00:05.440385
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 323.73|RED: 322.86|CED: 0.0   |CTD: 626.11|
+| 16        | -322.9    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.778423
+Simulation Execution Time: 0:00:05.491107
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 357.06|RED: 356.65|CED: 0.0   |CTD: 705.22|
+| 17        | -356.6    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.702999
+Simulation Execution Time: 0:00:05.434008
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 323.7 |RED: 323.11|CED: 0.0   |CTD: 623.54|
+| 18        | -323.1    | 0.9673    |
+
+Discovery Execution Time: 0:00:03.691063
+Simulation Execution Time: 0:00:05.468053
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 346.39|RED: 346.0 |CED: 0.0   |CTD: 670.37|
+| 19        | -346.0    | 0.9673    |
+
+Discovery Execution Time: 0:00:03.755090
+Simulation Execution Time: 0:00:05.459457
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 351.42|RED: 351.2 |CED: 0.0   |CTD: 689.26|
+| 20        | -351.2    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.742132
+Simulation Execution Time: 0:00:05.432946
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 354.4 |RED: 355.01|CED: 0.0   |CTD: 702.23|
+| 21        | -355.0    | 0.9672    |
+
+Discovery Execution Time: 0:00:03.785242
+Simulation Execution Time: 0:00:05.415562
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 331.6 |RED: 331.16|CED: 0.0   |CTD: 640.15|
+| 22        | -331.2    | 0.967     |
+
+Discovery Execution Time: 0:00:03.673848
+Simulation Execution Time: 0:00:05.533984
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 353.28|RED: 353.32|CED: 0.0   |CTD: 692.38|
+| 23        | -353.3    | 0.9728    |
+
+Discovery Execution Time: 0:00:03.756245
+Simulation Execution Time: 0:00:05.600196
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 366.82|RED: 366.58|CED: 0.0   |CTD: 725.99|
+| 24        | -366.6    | 0.967     |
+
+Discovery Execution Time: 0:00:03.748843
+Simulation Execution Time: 0:00:05.532000
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 338.31|RED: 338.36|CED: 0.0   |CTD: 651.24|
+| 25        | -338.4    | 0.9671    |
+
+Discovery Execution Time: 0:00:03.741977
+Simulation Execution Time: 0:00:05.474195
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 331.01|RED: 331.28|CED: 0.0   |CTD: 641.12|
+| 26        | -331.3    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.783061
+Simulation Execution Time: 0:00:05.578587
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 362.55|RED: 361.94|CED: 0.0   |CTD: 709.78|
+| 27        | -361.9    | 0.9726    |
+
+Discovery Execution Time: 0:00:03.769324
+Simulation Execution Time: 0:00:05.577284
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 365.56|RED: 364.27|CED: 0.0   |CTD: 701.59|
+| 28        | -364.3    | 0.9672    |
+
+Discovery Execution Time: 0:00:03.724876
+Simulation Execution Time: 0:00:05.404705
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 340.75|RED: 339.68|CED: 0.0   |CTD: 641.43|
+| 29        | -339.7    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.771398
+Simulation Execution Time: 0:00:05.440382
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 367.97|RED: 367.47|CED: 0.0   |CTD: 727.2 |
+| 30        | -367.5    | 0.9727    |
+=====================================
+
+Best result: {'angle': 0.9670020898094808}; f(x) = -317.02711804177363.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:03.871824
+Simulation Execution Time: 0:00:05.647179
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 444.05|RED: 444.11|CED: 0.0   |CTD: 883.31|
+| 1         | -444.1    | 0.967     |
+
+Discovery Execution Time: 0:00:03.464145
+Simulation Execution Time: 0:00:05.326970
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 442.26|RED: 442.7 |CED: 0.0   |CTD: 849.32|
+| 2         | -442.7    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.783508
+Simulation Execution Time: 0:00:05.652655
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 452.63|RED: 452.54|CED: 0.0   |CTD: 905.13|
+| 3         | -452.5    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.625109
+Simulation Execution Time: 0:00:05.473564
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 417.91|RED: 418.32|CED: 0.0   |CTD: 823.83|
+| 4         | -418.3    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.483514
+Simulation Execution Time: 0:00:05.411616
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 444.18|RED: 444.38|CED: 0.0   |CTD: 882.49|
+| 5         | -444.4    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.528617
+Simulation Execution Time: 0:00:05.390150
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 446.19|RED: 445.7 |CED: 0.0   |CTD: 877.97|
+| 6         | -445.7    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.558430
+Simulation Execution Time: 0:00:05.430460
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 425.46|RED: 424.95|CED: 0.0   |CTD: 805.28|
+| 7         | -425.0    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.624278
+Simulation Execution Time: 0:00:05.425447
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 448.45|RED: 448.68|CED: 0.0   |CTD: 885.46|
+| 8         | -448.7    | 0.7149    |
+
+Discovery Execution Time: 0:00:03.643363
+Simulation Execution Time: 0:00:05.572408
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 432.86|RED: 433.38|CED: 0.0   |CTD: 840.47|
+| 9         | -433.4    | 0.7049    |
+
+Discovery Execution Time: 0:00:03.615287
+Simulation Execution Time: 0:00:05.583697
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 447.56|RED: 447.93|CED: 0.0   |CTD: 877.52|
+| 10        | -447.9    | 0.7048    |
+
+Discovery Execution Time: 0:00:03.602362
+Simulation Execution Time: 0:00:05.516445
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 437.64|RED: 438.01|CED: 0.0   |CTD: 855.73|
+| 11        | -438.0    | 0.7049    |
+
+Discovery Execution Time: 0:00:03.594982
+Simulation Execution Time: 0:00:05.438070
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 421.5 |RED: 421.08|CED: 0.0   |CTD: 829.82|
+| 12        | -421.1    | 0.705     |
+
+Discovery Execution Time: 0:00:03.662057
+Simulation Execution Time: 0:00:05.436762
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 435.49|RED: 435.36|CED: 0.0   |CTD: 859.39|
+| 13        | -435.4    | 0.705     |
+
+Discovery Execution Time: 0:00:03.597647
+Simulation Execution Time: 0:00:05.467614
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 412.79|RED: 412.81|CED: 0.0   |CTD: 800.14|
+| 14        | -412.8    | 0.7051    |
+
+Discovery Execution Time: 0:00:03.608822
+Simulation Execution Time: 0:00:05.395112
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 437.98|RED: 438.49|CED: 0.0   |CTD: 870.28|
+| 15        | -438.5    | 0.7052    |
+
+Discovery Execution Time: 0:00:03.568345
+Simulation Execution Time: 0:00:05.448769
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 442.54|RED: 443.19|CED: 0.0   |CTD: 885.79|
+| 16        | -443.2    | 0.7049    |
+
+Discovery Execution Time: 0:00:03.564725
+Simulation Execution Time: 0:00:05.492466
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 445.53|RED: 445.08|CED: 0.0   |CTD: 859.95|
+| 17        | -445.1    | 0.7051    |
+
+Discovery Execution Time: 0:00:03.307075
+Simulation Execution Time: 0:00:05.306901
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 463.94|RED: 464.47|CED: 0.0   |CTD: 888.25|
+| 18        | -464.5    | 0.4545    |
+
+Discovery Execution Time: 0:00:03.604099
+Simulation Execution Time: 0:00:05.463087
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 449.19|RED: 448.83|CED: 0.0   |CTD: 875.01|
+| 19        | -448.8    | 0.7052    |
+
+Discovery Execution Time: 0:00:03.548679
+Simulation Execution Time: 0:00:05.457177
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 414.84|RED: 414.33|CED: 0.0   |CTD: 789.96|
+| 20        | -414.3    | 0.705     |
+
+Discovery Execution Time: 0:00:03.152981
+Simulation Execution Time: 0:00:05.096098
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 492.7 |RED: 492.62|CED: 0.0   |CTD: 891.97|
+| 21        | -492.6    | 0.2171    |
+
+Discovery Execution Time: 0:00:03.997605
+Simulation Execution Time: 0:00:05.872914
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 469.82|RED: 469.71|CED: 0.0   |CTD: 923.61|
+| 22        | -469.7    | 0.7373    |
+
+Discovery Execution Time: 0:00:03.554650
+Simulation Execution Time: 0:00:05.685024
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 475.49|RED: 475.69|CED: 0.0   |CTD: 904.91|
+| 23        | -475.7    | 0.3795    |
+
+Discovery Execution Time: 0:00:03.772685
+Simulation Execution Time: 0:00:05.943250
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 454.95|RED: 454.8 |CED: 0.0   |CTD: 875.57|
+| 24        | -454.8    | 0.5473    |
+
+Discovery Execution Time: 0:00:03.787371
+Simulation Execution Time: 0:00:05.968739
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 468.46|RED: 468.18|CED: 0.0   |CTD: 886.13|
+| 25        | -468.2    | 0.547     |
+
+Discovery Execution Time: 0:00:04.288053
+Simulation Execution Time: 0:00:06.178936
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 439.71|RED: 439.03|CED: 0.0   |CTD: 841.8 |
+| 26        | -439.0    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.302917
+Simulation Execution Time: 0:00:06.321912
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 465.16|RED: 465.82|CED: 0.0   |CTD: 934.83|
+| 27        | -465.8    | 0.705     |
+
+Discovery Execution Time: 0:00:04.082457
+Simulation Execution Time: 0:00:06.464292
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 411.15|RED: 410.97|CED: 0.0   |CTD: 790.95| <--------------------------------------
+| 28        | -411.0    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.238789
+Simulation Execution Time: 0:00:06.337984
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 446.78|RED: 446.84|CED: 0.0   |CTD: 900.09|
+| 29        | -446.8    | 0.6976    |
+
+Discovery Execution Time: 0:00:03.983585
+Simulation Execution Time: 0:00:06.396436
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 462.42|RED: 462.63|CED: 0.0   |CTD: 881.72|
+| 30        | -462.6    | 0.5471    |
+=====================================
+Best result: {'angle': 0.6976244793287922}; f(x) = -410.9700835023729.
+STARTING PROCESS: loan_application (ModelType.MULTI_GLOBAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.216480
+Simulation Execution Time: 0:00:06.994549
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.76  |RED: 1.25  |CED: 0.0   |CTD: 6.2   |
+| 1         | -1.254    | 0.967     |
+
+Discovery Execution Time: 0:00:04.588363
+Simulation Execution Time: 0:00:06.163277
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.79  |RED: 1.44  |CED: 0.0   |CTD: 2.93  |
+| 2         | -1.444    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.065492
+Simulation Execution Time: 0:00:06.867496
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.84  |RED: 1.24  |CED: 0.0   |CTD: 6.54  |
+| 3         | -1.24     | 0.9727    |
+
+Discovery Execution Time: 0:00:04.782274
+Simulation Execution Time: 0:00:06.407525
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.29  |RED: 1.1   |CED: 0.0   |CTD: 4.43  | <----------------------------------------
+| 4         | -1.103    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.108380
+Simulation Execution Time: 0:00:06.649040
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.7   |RED: 1.27  |CED: 0.0   |CTD: 4.0   |
+| 5         | -1.271    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.926379
+Simulation Execution Time: 0:00:06.679160
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.24  |CED: 0.0   |CTD: 4.34  |
+| 6         | -1.241    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.807916
+Simulation Execution Time: 0:00:06.706694
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.84  |RED: 1.13  |CED: 0.0   |CTD: 4.47  |
+| 7         | -1.126    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.992306
+Simulation Execution Time: 0:00:06.640168
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.62  |RED: 1.32  |CED: 0.0   |CTD: 5.2   |
+| 8         | -1.318    | 0.7149    |
+
+Discovery Execution Time: 0:00:05.614980
+Simulation Execution Time: 0:00:06.720702
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.09  |RED: 1.31  |CED: 0.0   |CTD: 7.24  |
+| 9         | -1.311    | 0.9729    |
+
+Discovery Execution Time: 0:00:05.084830
+Simulation Execution Time: 0:00:06.391441
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.04  |RED: 1.3   |CED: 0.0   |CTD: 6.54  |
+| 10        | -1.304    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.859939
+Simulation Execution Time: 0:00:06.347955
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.73  |RED: 1.32  |CED: 0.0   |CTD: 7.24  |
+| 11        | -1.319    | 0.9726    |
+
+Discovery Execution Time: 0:00:04.986899
+Simulation Execution Time: 0:00:06.325309
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.97  |RED: 1.27  |CED: 0.0   |CTD: 6.72  |
+| 12        | -1.273    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.842422
+Simulation Execution Time: 0:00:06.351986
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.8   |RED: 1.26  |CED: 0.0   |CTD: 6.79  |
+| 13        | -1.263    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.499915
+Simulation Execution Time: 0:00:05.867994
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.61  |RED: 1.39  |CED: 0.0   |CTD: 2.5   |
+| 14        | -1.387    | 0.5268    |
+
+Discovery Execution Time: 0:00:04.746877
+Simulation Execution Time: 0:00:06.438069
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.92  |RED: 1.31  |CED: 0.0   |CTD: 6.91  |
+| 15        | -1.314    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.936324
+Simulation Execution Time: 0:00:06.443715
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.45  |RED: 1.31  |CED: 0.0   |CTD: 6.8   |
+| 16        | -1.305    | 0.967     |
+
+Discovery Execution Time: 0:00:04.932998
+Simulation Execution Time: 0:00:06.416791
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.9   |RED: 1.4   |CED: 0.0   |CTD: 7.22  |
+| 17        | -1.396    | 0.9728    |
+
+Discovery Execution Time: 0:00:04.807476
+Simulation Execution Time: 0:00:06.350793
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.65  |RED: 1.17  |CED: 0.0   |CTD: 6.36  |
+| 18        | -1.175    | 0.9673    |
+
+Discovery Execution Time: 0:00:04.744141
+Simulation Execution Time: 0:00:06.520788
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.82  |RED: 1.31  |CED: 0.0   |CTD: 7.08  |
+| 19        | -1.306    | 0.9673    |
+
+Discovery Execution Time: 0:00:04.494453
+Simulation Execution Time: 0:00:06.116642
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.59  |RED: 1.11  |CED: 0.0   |CTD: 4.69  |
+| 20        | -1.106    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.882375
+Simulation Execution Time: 0:00:06.375053
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.01  |RED: 1.31  |CED: 0.0   |CTD: 6.92  |
+| 21        | -1.312    | 0.9672    |
+
+Discovery Execution Time: 0:00:04.568246
+Simulation Execution Time: 0:00:06.104564
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.8   |RED: 1.28  |CED: 0.0   |CTD: 4.36  |
+| 22        | -1.281    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.654122
+Simulation Execution Time: 0:00:06.162012
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.22  |CED: 0.0   |CTD: 4.54  |
+| 23        | -1.22     | 0.6976    |
+
+Discovery Execution Time: 0:00:04.516115
+Simulation Execution Time: 0:00:06.149746
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.51  |RED: 1.19  |CED: 0.0   |CTD: 4.84  |
+| 24        | -1.191    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.578953
+Simulation Execution Time: 0:00:06.242131
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.28  |RED: 1.28  |CED: 0.0   |CTD: 4.95  |
+| 25        | -1.284    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.566026
+Simulation Execution Time: 0:00:06.142741
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.38  |RED: 1.16  |CED: 0.0   |CTD: 4.57  |
+| 26        | -1.161    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.722933
+Simulation Execution Time: 0:00:06.252197
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.57  |RED: 1.17  |CED: 0.0   |CTD: 5.37  |
+| 27        | -1.171    | 0.8279    |
+
+Discovery Execution Time: 0:00:04.555867
+Simulation Execution Time: 0:00:06.108742
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.41  |RED: 1.2   |CED: 0.0   |CTD: 4.82  |
+| 28        | -1.201    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.745377
+Simulation Execution Time: 0:00:06.250687
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.65  |RED: 1.13  |CED: 0.0   |CTD: 5.31  |
+| 29        | -1.126    | 0.828     |
+
+Discovery Execution Time: 0:00:04.766524
+Simulation Execution Time: 0:00:06.260882
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.77  |RED: 1.14  |CED: 0.0   |CTD: 5.51  |
+| 30        | -1.144    | 0.828     |
+=====================================
+Best result: {'angle': 0.7148159936743647}; f(x) = -1.1031737658674998.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.828307
+Simulation Execution Time: 0:00:06.440103
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.73  |RED: 1.62  |CED: 0.0   |CTD: 9.65  |
+| 1         | -1.621    | 0.967     |
+
+Discovery Execution Time: 0:00:04.400673
+Simulation Execution Time: 0:00:06.083064
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.09  |CED: 0.0   |CTD: 4.68  |
+| 2         | -1.089    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.577759
+Simulation Execution Time: 0:00:06.126107
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.62  |RED: 1.57  |CED: 0.0   |CTD: 9.93  |
+| 3         | -1.572    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.244514
+Simulation Execution Time: 0:00:05.919180
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.77  |RED: 1.23  |CED: 0.0   |CTD: 7.46  |
+| 4         | -1.231    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.296511
+Simulation Execution Time: 0:00:05.949692
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.48  |RED: 1.18  |CED: 0.0   |CTD: 6.9   |
+| 5         | -1.184    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.333415
+Simulation Execution Time: 0:00:05.916980
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.53  |RED: 1.18  |CED: 0.0   |CTD: 6.46  |
+| 6         | -1.18     | 0.7148    |
+
+Discovery Execution Time: 0:00:04.151090
+Simulation Execution Time: 0:00:05.612123
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.35  |RED: 1.14  |CED: 0.0   |CTD: 4.52  |
+| 7         | -1.14     | 0.5471    |
+
+Discovery Execution Time: 0:00:04.305991
+Simulation Execution Time: 0:00:05.857787
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.78  |RED: 1.32  |CED: 0.0   |CTD: 6.76  |
+| 8         | -1.325    | 0.7146    |
+
+Discovery Execution Time: 0:00:04.219715
+Simulation Execution Time: 0:00:05.879191
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.41  |RED: 1.02  |CED: 0.0   |CTD: 5.41  | <---------------------------------------
+| 9         | -1.023    | 0.5474    |
+
+Discovery Execution Time: 0:00:04.280999
+Simulation Execution Time: 0:00:05.738828
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.47  |RED: 1.19  |CED: 0.0   |CTD: 4.79  |
+| 10        | -1.194    | 0.5475    |
+
+Discovery Execution Time: 0:00:05.232617
+Simulation Execution Time: 0:00:06.840655
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.52  |RED: 1.21  |CED: 0.0   |CTD: 7.36  |
+| 11        | -1.206    | 0.6975    |
+
+Discovery Execution Time: 0:00:04.357060
+Simulation Execution Time: 0:00:05.826720
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.6   |RED: 1.08  |CED: 0.0   |CTD: 5.11  |
+| 12        | -1.076    | 0.547     |
+
+Discovery Execution Time: 0:00:04.286384
+Simulation Execution Time: 0:00:05.792450
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.64  |RED: 1.04  |CED: 0.0   |CTD: 4.51  |
+| 13        | -1.038    | 0.5473    |
+
+Discovery Execution Time: 0:00:04.241382
+Simulation Execution Time: 0:00:05.822241
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.55  |RED: 1.08  |CED: 0.0   |CTD: 5.13  |
+| 14        | -1.078    | 0.5468    |
+
+Discovery Execution Time: 0:00:04.486527
+Simulation Execution Time: 0:00:06.142393
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.23  |RED: 1.3   |CED: 0.0   |CTD: 4.64  |
+| 15        | -1.295    | 0.5465    |
+
+Discovery Execution Time: 0:00:04.706497
+Simulation Execution Time: 0:00:06.218910
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.18  |CED: 0.0   |CTD: 6.74  |
+| 16        | -1.18     | 0.698     |
+
+Discovery Execution Time: 0:00:04.397180
+Simulation Execution Time: 0:00:06.216240
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.72  |RED: 1.07  |CED: 0.0   |CTD: 5.89  |
+| 17        | -1.074    | 0.6983    |
+
+Discovery Execution Time: 0:00:04.702524
+Simulation Execution Time: 0:00:06.279218
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.44  |RED: 1.21  |CED: 0.0   |CTD: 6.96  |
+| 18        | -1.209    | 0.6985    |
+
+Discovery Execution Time: 0:00:03.620848
+Simulation Execution Time: 0:00:05.065144
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.58  |RED: 3.46  |CED: 0.0   |CTD: 5.06  |
+| 19        | -3.46     | 0.02362   |
+
+Discovery Execution Time: 0:00:04.373642
+Simulation Execution Time: 0:00:05.755340
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.7   |RED: 1.18  |CED: 0.0   |CTD: 7.1   |
+| 20        | -1.177    | 0.6966    |
+
+Discovery Execution Time: 0:00:04.761222
+Simulation Execution Time: 0:00:06.227933
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.46  |RED: 1.21  |CED: 0.0   |CTD: 6.8   |
+| 21        | -1.208    | 0.6959    |
+
+Discovery Execution Time: 0:00:04.671342
+Simulation Execution Time: 0:00:06.334176
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.7   |RED: 1.2   |CED: 0.0   |CTD: 6.62  |
+| 22        | -1.199    | 0.6947    |
+
+Discovery Execution Time: 0:00:04.515169
+Simulation Execution Time: 0:00:06.194345
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.84  |RED: 1.3   |CED: 0.0   |CTD: 7.47  |
+| 23        | -1.295    | 0.6939    |
+
+Discovery Execution Time: 0:00:04.853011
+Simulation Execution Time: 0:00:06.311454
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.68  |RED: 1.1   |CED: 0.0   |CTD: 6.34  |
+| 24        | -1.096    | 0.6953    |
+
+Discovery Execution Time: 0:00:04.789850
+Simulation Execution Time: 0:00:06.517958
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.7   |RED: 1.57  |CED: 0.0   |CTD: 8.64  |
+| 25        | -1.568    | 0.8918    |
+
+Discovery Execution Time: 0:00:04.819192
+Simulation Execution Time: 0:00:06.309648
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.96  |RED: 1.22  |CED: 0.0   |CTD: 6.9   |
+| 26        | -1.218    | 0.6928    |
+
+Discovery Execution Time: 0:00:04.442517
+Simulation Execution Time: 0:00:06.226394
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.73  |RED: 1.14  |CED: 0.0   |CTD: 6.55  |
+| 27        | -1.143    | 0.6921    |
+
+Discovery Execution Time: 0:00:04.884268
+Simulation Execution Time: 0:00:06.441280
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.62  |RED: 1.16  |CED: 0.0   |CTD: 6.74  |
+| 28        | -1.155    | 0.6914    |
+
+Discovery Execution Time: 0:00:04.524318
+Simulation Execution Time: 0:00:06.128817
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.71  |RED: 1.29  |CED: 0.0   |CTD: 7.04  |
+| 29        | -1.289    | 0.6907    |
+
+Discovery Execution Time: 0:00:04.761180
+Simulation Execution Time: 0:00:06.511189
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.96  |RED: 1.15  |CED: 0.0   |CTD: 5.97  |
+| 30        | -1.154    | 0.6798    |
+=====================================
+Best result: {'angle': 0.5474074064541531}; f(x) = -1.0226380116669351.
+STARTING PROCESS: loan_application (ModelType.MULTI_LOCAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.732820
+Simulation Execution Time: 0:00:07.380029
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.75  |RED: 1.19  |CED: 0.0   |CTD: 6.31  |
+| 1         | -1.186    | 0.967     |
+
+Discovery Execution Time: 0:00:05.390355
+Simulation Execution Time: 0:00:07.328311
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.98  |RED: 1.52  |CED: 0.0   |CTD: 3.02  |
+| 2         | -1.521    | 0.5472    |
+
+Discovery Execution Time: 0:00:08.848303
+Simulation Execution Time: 0:00:07.679438
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.64  |RED: 1.22  |CED: 0.0   |CTD: 6.5   |
+| 3         | -1.22     | 0.9727    |
+
+Discovery Execution Time: 0:00:06.014005
+Simulation Execution Time: 0:00:08.702259
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.89  |RED: 1.13  |CED: 0.0   |CTD: 4.28  |
+| 4         | -1.129    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.335222
+Simulation Execution Time: 0:00:07.000164
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.71  |RED: 1.3   |CED: 0.0   |CTD: 3.7   |
+| 5         | -1.299    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.283208
+Simulation Execution Time: 0:00:07.130442
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.49  |RED: 1.11  |CED: 0.0   |CTD: 4.86  |
+| 6         | -1.111    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.362433
+Simulation Execution Time: 0:00:07.626934
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.6   |RED: 1.15  |CED: 0.0   |CTD: 4.95  |
+| 7         | -1.154    | 0.7146    |
+
+Discovery Execution Time: 0:00:06.103465
+Simulation Execution Time: 0:00:07.624403
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.02  |RED: 1.33  |CED: 0.0   |CTD: 7.01  |
+| 8         | -1.331    | 0.9674    |
+
+Discovery Execution Time: 0:00:05.745724
+Simulation Execution Time: 0:00:07.778245
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.1   |RED: 1.19  |CED: 0.0   |CTD: 6.45  |
+| 9         | -1.193    | 0.9667    |
+
+Discovery Execution Time: 0:00:05.619660
+Simulation Execution Time: 0:00:08.551415
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.01  |RED: 1.26  |CED: 0.0   |CTD: 6.13  |
+| 10        | -1.26     | 0.9664    |
+
+Discovery Execution Time: 0:00:05.256981
+Simulation Execution Time: 0:00:07.071741
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.07  |RED: 1.27  |CED: 0.0   |CTD: 5.94  |
+| 11        | -1.272    | 0.9723    |
+
+Discovery Execution Time: 0:00:05.157553
+Simulation Execution Time: 0:00:21.118056
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.92  |RED: 1.08  |CED: 0.0   |CTD: 4.61  |
+| 12        | -1.075    | 0.7142    |
+
+Discovery Execution Time: 0:00:06.706070
+Simulation Execution Time: 0:00:08.349503
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.83  |RED: 1.04  |CED: 0.0   |CTD: 5.05  | <---------------------------------------------
+| 13        | -1.037    | 0.7141    |
+
+Discovery Execution Time: 0:00:05.341473
+Simulation Execution Time: 0:00:07.397187
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.74  |RED: 1.16  |CED: 0.0   |CTD: 4.4   |
+| 14        | -1.162    | 0.7139    |
+
+Discovery Execution Time: 0:00:05.351655
+Simulation Execution Time: 0:00:07.458753
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.25  |RED: 1.06  |CED: 0.0   |CTD: 5.13  |
+| 15        | -1.062    | 0.7131    |
+
+Discovery Execution Time: 0:00:05.570612
+Simulation Execution Time: 0:00:07.774593
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.11  |CED: 0.0   |CTD: 5.08  |
+| 16        | -1.112    | 0.7132    |
+
+Discovery Execution Time: 0:00:05.488465
+Simulation Execution Time: 0:00:07.385541
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.84  |RED: 1.17  |CED: 0.0   |CTD: 4.33  |
+| 17        | -1.169    | 0.7129    |
+
+Discovery Execution Time: 0:00:04.942391
+Simulation Execution Time: 0:00:06.988435
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.01  |RED: 2.13  |CED: 0.0   |CTD: 1.42  |
+| 18        | -2.133    | 0.4545    |
+
+Discovery Execution Time: 0:00:05.543473
+Simulation Execution Time: 0:00:07.516957
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.69  |RED: 1.23  |CED: 0.0   |CTD: 6.75  |
+| 19        | -1.231    | 0.9737    |
+
+Discovery Execution Time: 0:00:05.594958
+Simulation Execution Time: 0:00:07.559194
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.76  |RED: 1.25  |CED: 0.0   |CTD: 7.23  |
+| 20        | -1.254    | 0.9746    |
+
+Discovery Execution Time: 0:00:04.686009
+Simulation Execution Time: 0:00:06.519448
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.37  |RED: 3.11  |CED: 0.0   |CTD: 3.28  |
+| 21        | -3.114    | 0.2171    |
+
+Discovery Execution Time: 0:00:05.708484
+Simulation Execution Time: 0:00:07.614959
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.51  |RED: 1.28  |CED: 0.0   |CTD: 6.85  |
+| 22        | -1.281    | 0.9758    |
+
+Discovery Execution Time: 0:00:05.667236
+Simulation Execution Time: 0:00:07.645902
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.85  |RED: 1.53  |CED: 0.0   |CTD: 7.36  |
+| 23        | -1.527    | 0.9771    |
+
+Discovery Execution Time: 0:00:05.309500
+Simulation Execution Time: 0:00:07.359136
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.21  |CED: 0.0   |CTD: 4.66  |
+| 24        | -1.207    | 0.699     |
+
+Discovery Execution Time: 0:00:05.226730
+Simulation Execution Time: 0:00:07.353055
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.78  |RED: 1.15  |CED: 0.0   |CTD: 4.59  |
+| 25        | -1.149    | 0.7       |
+
+Discovery Execution Time: 0:00:04.967746
+Simulation Execution Time: 0:00:06.843339
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.92  |RED: 1.2   |CED: 0.0   |CTD: 5.03  |
+| 26        | -1.201    | 0.7009    |
+
+Discovery Execution Time: 0:00:05.024370
+Simulation Execution Time: 0:00:06.854853
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.76  |RED: 1.3   |CED: 0.0   |CTD: 3.78  |
+| 27        | -1.298    | 0.7019    |
+
+Discovery Execution Time: 0:00:05.034141
+Simulation Execution Time: 0:00:06.906355
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.52  |RED: 1.15  |CED: 0.0   |CTD: 4.77  |
+| 28        | -1.154    | 0.6963    |
+
+Discovery Execution Time: 0:00:04.987025
+Simulation Execution Time: 0:00:06.878272
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.6   |RED: 1.28  |CED: 0.0   |CTD: 4.05  |
+| 29        | -1.279    | 0.6954    |
+
+Discovery Execution Time: 0:00:05.020595
+Simulation Execution Time: 0:00:06.923402
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.55  |RED: 1.24  |CED: 0.0   |CTD: 3.81  |
+| 30        | -1.237    | 0.6941    |
+=====================================
+Best result: {'angle': 0.7140539615341697}; f(x) = -1.037285561826233.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 2, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.407109
+Simulation Execution Time: 0:00:07.279375
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.74  |RED: 1.62  |CED: 0.0   |CTD: 9.12  |
+| 1         | -1.622    | 0.967     |
+
+Discovery Execution Time: 0:00:04.878943
+Simulation Execution Time: 0:00:06.910773
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.52  |RED: 1.07  |CED: 0.0   |CTD: 4.44  |
+| 2         | -1.068    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.322510
+Simulation Execution Time: 0:00:07.253945
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.82  |RED: 1.46  |CED: 0.0   |CTD: 9.24  |
+| 3         | -1.455    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.080874
+Simulation Execution Time: 0:00:07.092370
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.65  |RED: 1.13  |CED: 0.0   |CTD: 6.55  |
+| 4         | -1.134    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.057195
+Simulation Execution Time: 0:00:07.106528
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.66  |RED: 1.18  |CED: 0.0   |CTD: 6.83  |
+| 5         | -1.177    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.062816
+Simulation Execution Time: 0:00:06.953879
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.54  |RED: 1.22  |CED: 0.0   |CTD: 6.75  |
+| 6         | -1.221    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.024018
+Simulation Execution Time: 0:00:06.970044
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.61  |RED: 1.15  |CED: 0.0   |CTD: 6.36  |
+| 7         | -1.151    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.876257
+Simulation Execution Time: 0:00:06.872039
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.66  |RED: 1.02  |CED: 0.0   |CTD: 5.02  | <------------------------------------------------
+| 8         | -1.024    | 0.5473    |
+
+Discovery Execution Time: 0:00:04.847333
+Simulation Execution Time: 0:00:06.818029
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.6   |RED: 1.08  |CED: 0.0   |CTD: 5.34  |
+| 9         | -1.078    | 0.5474    |
+
+Discovery Execution Time: 0:00:05.066183
+Simulation Execution Time: 0:00:06.997581
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.54  |RED: 1.17  |CED: 0.0   |CTD: 7.08  |
+| 10        | -1.166    | 0.7149    |
+
+Discovery Execution Time: 0:00:04.882534
+Simulation Execution Time: 0:00:06.881865
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.57  |RED: 1.06  |CED: 0.0   |CTD: 4.97  |
+| 11        | -1.062    | 0.5475    |
+
+Discovery Execution Time: 0:00:04.987841
+Simulation Execution Time: 0:00:06.890785
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.93  |RED: 1.13  |CED: 0.0   |CTD: 4.36  |
+| 12        | -1.127    | 0.5476    |
+
+Discovery Execution Time: 0:00:04.991304
+Simulation Execution Time: 0:00:06.785827
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.63  |RED: 1.12  |CED: 0.0   |CTD: 4.27  |
+| 13        | -1.12     | 0.5471    |
+
+Discovery Execution Time: 0:00:04.872030
+Simulation Execution Time: 0:00:06.911606
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.48  |RED: 1.08  |CED: 0.0   |CTD: 5.36  |
+| 14        | -1.082    | 0.547     |
+
+Discovery Execution Time: 0:00:05.008111
+Simulation Execution Time: 0:00:06.950666
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.58  |RED: 1.11  |CED: 0.0   |CTD: 6.47  |
+| 15        | -1.106    | 0.6975    |
+
+Discovery Execution Time: 0:00:04.873444
+Simulation Execution Time: 0:00:06.880630
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.69  |RED: 1.1   |CED: 0.0   |CTD: 4.21  |
+| 16        | -1.103    | 0.5468    |
+
+Discovery Execution Time: 0:00:04.921982
+Simulation Execution Time: 0:00:06.885528
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.43  |RED: 1.05  |CED: 0.0   |CTD: 4.66  |
+| 17        | -1.051    | 0.5467    |
+
+Discovery Execution Time: 0:00:04.954353
+Simulation Execution Time: 0:00:06.872412
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.76  |RED: 1.09  |CED: 0.0   |CTD: 4.62  |
+| 18        | -1.095    | 0.5466    |
+
+Discovery Execution Time: 0:00:04.926376
+Simulation Execution Time: 0:00:06.783034
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.5   |RED: 1.14  |CED: 0.0   |CTD: 4.83  |
+| 19        | -1.14     | 0.5466    |
+
+Discovery Execution Time: 0:00:04.911744
+Simulation Execution Time: 0:00:06.904656
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.67  |RED: 1.14  |CED: 0.0   |CTD: 5.23  |
+| 20        | -1.141    | 0.5469    |
+
+Discovery Execution Time: 0:00:05.390234
+Simulation Execution Time: 0:00:07.414592
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.82  |RED: 1.11  |CED: 0.0   |CTD: 6.38  |
+| 21        | -1.115    | 0.6974    |
+
+Discovery Execution Time: 0:00:05.290147
+Simulation Execution Time: 0:00:07.206755
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.76  |RED: 1.23  |CED: 0.0   |CTD: 4.31  |
+| 22        | -1.226    | 0.5473    |
+
+Discovery Execution Time: 0:00:05.429360
+Simulation Execution Time: 0:00:07.323373
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.53  |RED: 1.14  |CED: 0.0   |CTD: 5.05  |
+| 23        | -1.143    | 0.5467    |
+
+Discovery Execution Time: 0:00:05.197340
+Simulation Execution Time: 0:00:07.274760
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.02  |RED: 1.07  |CED: 0.0   |CTD: 5.24  |
+| 24        | -1.068    | 0.5475    |
+
+Discovery Execution Time: 0:00:05.252617
+Simulation Execution Time: 0:00:07.368470
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.83  |RED: 1.11  |CED: 0.0   |CTD: 4.58  |
+| 25        | -1.11     | 0.5473    |
+
+Discovery Execution Time: 0:00:05.245117
+Simulation Execution Time: 0:00:07.277679
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.38  |RED: 1.2   |CED: 0.0   |CTD: 4.19  |
+| 26        | -1.196    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.945752
+Simulation Execution Time: 0:00:06.879111
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.72  |RED: 1.12  |CED: 0.0   |CTD: 4.55  |
+| 27        | -1.12     | 0.5469    |
+
+Discovery Execution Time: 0:00:04.925294
+Simulation Execution Time: 0:00:06.859261
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.82  |RED: 1.11  |CED: 0.0   |CTD: 4.32  |
+| 28        | -1.115    | 0.5465    |
+
+Discovery Execution Time: 0:00:05.145498
+Simulation Execution Time: 0:00:07.064209
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.09  |RED: 1.19  |CED: 0.0   |CTD: 6.39  |
+| 29        | -1.189    | 0.6976    |
+
+Discovery Execution Time: 0:00:04.926848
+Simulation Execution Time: 0:00:06.821027
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 1.62  |RED: 1.04  |CED: 0.0   |CTD: 4.79  |
+| 30        | -1.04     | 0.5467    |
+=====================================
+Best result: {'angle': 0.5472969582926364}; f(x) = -1.02371622022134.
+STARTING PROCESS: loan_application (ModelType.SEQUENTIAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.122053
+Simulation Execution Time: 0:00:06.344104
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 662.93|RED: 662.82|CED: 0.0   |CTD: 1304.49|
+| 1         | -662.8    | 0.967     |
+
+Discovery Execution Time: 0:00:03.574033
+Simulation Execution Time: 0:00:06.083970
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 748.06|RED: 747.99|CED: 0.0   |CTD: 1478.41|
+| 2         | -748.0    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.071804
+Simulation Execution Time: 0:00:06.446878
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 652.32|RED: 652.17|CED: 0.0   |CTD: 1287.55|
+| 3         | -652.2    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.692759
+Simulation Execution Time: 0:00:06.400267
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 737.76|RED: 737.45|CED: 0.0   |CTD: 1446.82|
+| 4         | -737.5    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.690966
+Simulation Execution Time: 0:00:06.237512
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 738.37|RED: 738.23|CED: 0.0   |CTD: 1480.82|
+| 5         | -738.2    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.019154
+Simulation Execution Time: 0:00:06.368048
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 735.7 |RED: 735.9 |CED: 0.0   |CTD: 1497.51|
+| 6         | -735.9    | 0.967     |
+
+Discovery Execution Time: 0:00:04.044623
+Simulation Execution Time: 0:00:06.419043
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 618.61|RED: 617.89|CED: 0.0   |CTD: 1204.4|
+| 7         | -617.9    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.196145
+Simulation Execution Time: 0:00:06.485214
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 790.81|RED: 790.19|CED: 0.0   |CTD: 1628.96|
+| 8         | -790.2    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.041689
+Simulation Execution Time: 0:00:06.524188
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 820.8 |RED: 820.07|CED: 0.0   |CTD: 1689.57|
+| 9         | -820.1    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.408529
+Simulation Execution Time: 0:00:05.909062
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 716.19|RED: 715.61|CED: 0.0   |CTD: 1395.56|
+| 10        | -715.6    | 0.4013    |
+
+Discovery Execution Time: 0:00:04.088954
+Simulation Execution Time: 0:00:06.334485
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 641.31|RED: 640.86|CED: 0.0   |CTD: 1271.21|
+| 11        | -640.9    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.056839
+Simulation Execution Time: 0:00:06.533524
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 615.86|RED: 615.41|CED: 0.0   |CTD: 1200.46|
+| 12        | -615.4    | 0.9726    |
+
+Discovery Execution Time: 0:00:04.010000
+Simulation Execution Time: 0:00:06.447380
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 743.59|RED: 743.2 |CED: 0.0   |CTD: 1492.75|
+| 13        | -743.2    | 0.9725    |
+
+Discovery Execution Time: 0:00:03.518805
+Simulation Execution Time: 0:00:05.946584
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 641.49|RED: 641.04|CED: 0.0   |CTD: 1233.37|
+| 14        | -641.0    | 0.5268    |
+
+Discovery Execution Time: 0:00:03.585890
+Simulation Execution Time: 0:00:06.098505
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 620.71|RED: 620.63|CED: 0.0   |CTD: 1195.3|
+| 15        | -620.6    | 0.5267    |
+
+Discovery Execution Time: 0:00:03.591254
+Simulation Execution Time: 0:00:06.058691
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 664.61|RED: 663.74|CED: 0.0   |CTD: 1274.36|
+| 16        | -663.7    | 0.5266    |
+
+Discovery Execution Time: 0:00:03.487557
+Simulation Execution Time: 0:00:05.998922
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 619.7 |RED: 619.39|CED: 0.0   |CTD: 1204.48|
+| 17        | -619.4    | 0.5267    |
+
+Discovery Execution Time: 0:00:03.560773
+Simulation Execution Time: 0:00:06.098749
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 615.75|RED: 615.49|CED: 0.0   |CTD: 1181.28|
+| 18        | -615.5    | 0.5267    |
+
+Discovery Execution Time: 0:00:04.093314
+Simulation Execution Time: 0:00:06.318522
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 753.08|RED: 753.24|CED: 0.0   |CTD: 1544.75|
+| 19        | -753.2    | 0.9726    |
+
+Discovery Execution Time: 0:00:03.631531
+Simulation Execution Time: 0:00:05.988646
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 631.39|RED: 630.66|CED: 0.0   |CTD: 1216.57|
+| 20        | -630.7    | 0.5267    |
+
+Discovery Execution Time: 0:00:03.605852
+Simulation Execution Time: 0:00:06.051991
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 637.87|RED: 637.42|CED: 0.0   |CTD: 1230.48|
+| 21        | -637.4    | 0.5269    |
+
+Discovery Execution Time: 0:00:03.563172
+Simulation Execution Time: 0:00:06.028887
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 613.12|RED: 612.93|CED: 0.0   |CTD: 1168.71|
+| 22        | -612.9    | 0.5268    |
+
+Discovery Execution Time: 0:00:03.564952
+Simulation Execution Time: 0:00:06.085719
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 728.41|RED: 728.0 |CED: 0.0   |CTD: 1429.09|
+| 23        | -728.0    | 0.5269    |
+
+Discovery Execution Time: 0:00:04.103172
+Simulation Execution Time: 0:00:06.376970
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 606.23|RED: 605.97|CED: 0.0   |CTD: 1168.7| <----------------------------------------------
+| 24        | -606.0    | 0.9726    |
+
+Discovery Execution Time: 0:00:03.582260
+Simulation Execution Time: 0:00:06.193174
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 739.21|RED: 738.89|CED: 0.0   |CTD: 1451.17|
+| 25        | -738.9    | 0.5268    |
+
+Discovery Execution Time: 0:00:03.635399
+Simulation Execution Time: 0:00:06.160473
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 693.14|RED: 692.71|CED: 0.0   |CTD: 1348.14|
+| 26        | -692.7    | 0.5267    |
+
+Discovery Execution Time: 0:00:04.008637
+Simulation Execution Time: 0:00:06.482820
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 611.77|RED: 611.87|CED: 0.0   |CTD: 1173.3|
+| 27        | -611.9    | 0.8279    |
+
+Discovery Execution Time: 0:00:03.968802
+Simulation Execution Time: 0:00:06.632646
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 780.99|RED: 780.74|CED: 0.0   |CTD: 1587.5|
+| 28        | -780.7    | 0.8281    |
+
+Discovery Execution Time: 0:00:03.966012
+Simulation Execution Time: 0:00:06.377846
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 612.46|RED: 612.1 |CED: 0.0   |CTD: 1205.71|
+| 29        | -612.1    | 0.828     |
+
+Discovery Execution Time: 0:00:03.957896
+Simulation Execution Time: 0:00:06.380039
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 606.33|RED: 606.3 |CED: 0.0   |CTD: 1201.08|
+| 30        | -606.3    | 0.828     |
+=====================================
+Best result: {'angle': 0.9726474850386057}; f(x) = -605.9738217481535.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.313866
+Simulation Execution Time: 0:00:06.995381
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 888.07|RED: 887.72|CED: 0.0   |CTD: 1757.6|
+| 1         | -887.7    | 0.967     |
+
+Discovery Execution Time: 0:00:03.740588
+Simulation Execution Time: 0:00:06.328543
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 664.84|RED: 664.8 |CED: 0.0   |CTD: 1230.64|
+| 2         | -664.8    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.579125
+Simulation Execution Time: 0:00:07.264378
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 716.83|RED: 717.0 |CED: 0.0   |CTD: 1368.63|
+| 3         | -717.0    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.040467
+Simulation Execution Time: 0:00:06.764282
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 663.57|RED: 664.26|CED: 0.0   |CTD: 1280.93|
+| 4         | -664.3    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.790425
+Simulation Execution Time: 0:00:06.572999
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 657.49|RED: 657.87|CED: 0.0   |CTD: 1241.39|
+| 5         | -657.9    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.892278
+Simulation Execution Time: 0:00:06.611805
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 668.74|RED: 668.4 |CED: 0.0   |CTD: 1264.63|
+| 6         | -668.4    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.061895
+Simulation Execution Time: 0:00:06.636383
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 666.76|RED: 666.28|CED: 0.0   |CTD: 1256.66|
+| 7         | -666.3    | 0.7155    |
+
+Discovery Execution Time: 0:00:03.937017
+Simulation Execution Time: 0:00:06.459340
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 660.48|RED: 659.59|CED: 0.0   |CTD: 1235.88|
+| 8         | -659.6    | 0.6984    |
+
+Discovery Execution Time: 0:00:04.673037
+Simulation Execution Time: 0:00:07.152801
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 679.87|RED: 679.74|CED: 0.0   |CTD: 1266.15|
+| 9         | -679.7    | 0.697     |
+
+Discovery Execution Time: 0:00:04.088370
+Simulation Execution Time: 0:00:06.452476
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 675.89|RED: 676.32|CED: 0.0   |CTD: 1285.52|
+| 10        | -676.3    | 0.548     |
+
+Discovery Execution Time: 0:00:04.051668
+Simulation Execution Time: 0:00:06.847229
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 682.94|RED: 683.28|CED: 0.0   |CTD: 1308.85|
+| 11        | -683.3    | 0.6992    |
+
+Discovery Execution Time: 0:00:03.741468
+Simulation Execution Time: 0:00:06.851680
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 651.16|RED: 651.57|CED: 0.0   |CTD: 1238.34|
+| 12        | -651.6    | 0.5465    |
+
+Discovery Execution Time: 0:00:04.009708
+Simulation Execution Time: 0:00:06.779729
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 668.6 |RED: 668.3 |CED: 0.0   |CTD: 1250.9|
+| 13        | -668.3    | 0.5458    |
+
+Discovery Execution Time: 0:00:03.788188
+Simulation Execution Time: 0:00:06.669379
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 693.92|RED: 694.05|CED: 0.0   |CTD: 1314.4|
+| 14        | -694.0    | 0.5449    |
+
+Discovery Execution Time: 0:00:08.162378
+Simulation Execution Time: 0:00:11.557665
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 687.86|RED: 687.53|CED: 0.0   |CTD: 1293.56|
+| 15        | -687.5    | 0.549     |
+
+Discovery Execution Time: 0:00:05.517280
+Simulation Execution Time: 0:00:10.767067
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 666.48|RED: 665.46|CED: 0.0   |CTD: 1248.3|
+| 16        | -665.5    | 0.7165    |
+
+Discovery Execution Time: 0:00:03.932988
+Simulation Execution Time: 0:00:06.580651
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 719.45|RED: 719.79|CED: 0.0   |CTD: 1368.91|
+| 17        | -719.8    | 0.7175    |
+
+Discovery Execution Time: 0:00:04.550891
+Simulation Execution Time: 0:00:08.431918
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 648.97|RED: 648.24|CED: 0.0   |CTD: 1220.12|
+| 18        | -648.2    | 0.696     |
+
+Discovery Execution Time: 0:00:03.721724
+Simulation Execution Time: 0:00:06.269534
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 629.3 |RED: 629.33|CED: 0.0   |CTD: 1161.74| <---------------------------------------------
+| 19        | -629.3    | 0.6955    |
+
+Discovery Execution Time: 0:00:03.768958
+Simulation Execution Time: 0:00:06.549721
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 662.42|RED: 662.96|CED: 0.0   |CTD: 1261.31|
+| 20        | -663.0    | 0.6949    |
+
+Discovery Execution Time: 0:00:03.756442
+Simulation Execution Time: 0:00:06.228495
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 667.33|RED: 667.66|CED: 0.0   |CTD: 1277.79|
+| 21        | -667.7    | 0.694     |
+
+Discovery Execution Time: 0:00:03.739316
+Simulation Execution Time: 0:00:06.315529
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 667.87|RED: 667.65|CED: 0.0   |CTD: 1239.72|
+| 22        | -667.6    | 0.6932    |
+
+Discovery Execution Time: 0:00:03.678373
+Simulation Execution Time: 0:00:06.215443
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 676.17|RED: 676.63|CED: 0.0   |CTD: 1285.16|
+| 23        | -676.6    | 0.6925    |
+
+Discovery Execution Time: 0:00:03.932296
+Simulation Execution Time: 0:00:06.428537
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 671.65|RED: 671.69|CED: 0.0   |CTD: 1270.46|
+| 24        | -671.7    | 0.6915    |
+
+Discovery Execution Time: 0:00:03.826710
+Simulation Execution Time: 0:00:06.575667
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 651.93|RED: 652.01|CED: 0.0   |CTD: 1240.94|
+| 25        | -652.0    | 0.6906    |
+
+Discovery Execution Time: 0:00:03.989500
+Simulation Execution Time: 0:00:06.490481
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 654.51|RED: 654.1 |CED: 0.0   |CTD: 1232.66|
+| 26        | -654.1    | 0.69      |
+
+Discovery Execution Time: 0:00:03.980912
+Simulation Execution Time: 0:00:06.805030
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 669.91|RED: 669.75|CED: 0.0   |CTD: 1262.33|
+| 27        | -669.8    | 0.6893    |
+
+Discovery Execution Time: 0:00:03.989689
+Simulation Execution Time: 0:00:06.842807
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 650.07|RED: 650.36|CED: 0.0   |CTD: 1230.1|
+| 28        | -650.4    | 0.6885    |
+
+Discovery Execution Time: 0:00:04.129050
+Simulation Execution Time: 0:00:06.808632
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 652.47|RED: 652.69|CED: 0.0   |CTD: 1229.8|
+| 29        | -652.7    | 0.6881    |
+
+Discovery Execution Time: 0:00:04.055965
+Simulation Execution Time: 0:00:06.785605
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 653.24|RED: 653.13|CED: 0.0   |CTD: 1207.8|
+| 30        | -653.1    | 0.6875    |
+=====================================
+Best result: {'angle': 0.6954612779189671}; f(x) = -629.3292010918855.
+STARTING PROCESS: loan_application (ModelType.MULTI_GLOBAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.182681
+Simulation Execution Time: 0:00:07.265431
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.2   |RED: 3.15  |CED: 0.0   |CTD: 9.56  |
+| 1         | -3.152    | 0.967     |
+
+Discovery Execution Time: 0:00:04.577905
+Simulation Execution Time: 0:00:06.802381
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.61  |RED: 4.62  |CED: 0.0   |CTD: 4.19  |
+| 2         | -4.624    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.226344
+Simulation Execution Time: 0:00:07.358410
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.12  |RED: 3.19  |CED: 0.0   |CTD: 9.21  |
+| 3         | -3.194    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.772433
+Simulation Execution Time: 0:00:06.926035
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.68  |RED: 3.98  |CED: 0.0   |CTD: 6.5   |
+| 4         | -3.98     | 0.7148    |
+
+Discovery Execution Time: 0:00:04.908960
+Simulation Execution Time: 0:00:06.997877
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.99  |RED: 3.65  |CED: 0.0   |CTD: 6.97  |
+| 5         | -3.652    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.265224
+Simulation Execution Time: 0:00:07.228810
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.17  |RED: 3.55  |CED: 0.0   |CTD: 8.44  |
+| 6         | -3.551    | 0.967     |
+
+Discovery Execution Time: 0:00:05.233315
+Simulation Execution Time: 0:00:07.246152
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.21  |RED: 3.28  |CED: 0.0   |CTD: 10.42 |
+| 7         | -3.275    | 0.9728    |
+
+Discovery Execution Time: 0:00:05.231533
+Simulation Execution Time: 0:00:07.197946
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.33  |RED: 3.71  |CED: 0.0   |CTD: 8.4   |
+| 8         | -3.709    | 0.9671    |
+
+Discovery Execution Time: 0:00:05.178754
+Simulation Execution Time: 0:00:07.336398
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.69  |RED: 3.34  |CED: 0.0   |CTD: 8.74  |
+| 9         | -3.344    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.314814
+Simulation Execution Time: 0:00:07.324339
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.15  |RED: 3.18  |CED: 0.0   |CTD: 8.83  |
+| 10        | -3.175    | 0.973     |
+
+Discovery Execution Time: 0:00:05.201421
+Simulation Execution Time: 0:00:07.185998
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.06  |RED: 3.36  |CED: 0.0   |CTD: 9.18  |
+| 11        | -3.364    | 0.9726    |
+
+Discovery Execution Time: 0:00:05.368890
+Simulation Execution Time: 0:00:07.193224
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.23  |RED: 3.14  |CED: 0.0   |CTD: 9.51  |
+| 12        | -3.144    | 0.9725    |
+
+Discovery Execution Time: 0:00:05.198070
+Simulation Execution Time: 0:00:07.228669
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.09  |RED: 3.28  |CED: 0.0   |CTD: 8.82  |
+| 13        | -3.283    | 0.9724    |
+
+Discovery Execution Time: 0:00:05.265260
+Simulation Execution Time: 0:00:07.229702
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.29  |RED: 3.27  |CED: 0.0   |CTD: 9.2   |
+| 14        | -3.266    | 0.967     |
+
+Discovery Execution Time: 0:00:05.154179
+Simulation Execution Time: 0:00:07.226437
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.89  |RED: 3.29  |CED: 0.0   |CTD: 9.42  |
+| 15        | -3.291    | 0.9729    |
+
+Discovery Execution Time: 0:00:05.190972
+Simulation Execution Time: 0:00:07.131191
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.31  |RED: 3.39  |CED: 0.0   |CTD: 8.83  |
+| 16        | -3.393    | 0.9731    |
+
+Discovery Execution Time: 0:00:05.274770
+Simulation Execution Time: 0:00:07.176442
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.37  |RED: 3.32  |CED: 0.0   |CTD: 8.65  |
+| 17        | -3.317    | 0.9722    |
+
+Discovery Execution Time: 0:00:05.105267
+Simulation Execution Time: 0:00:07.262371
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.15  |RED: 3.22  |CED: 0.0   |CTD: 8.43  |
+| 18        | -3.222    | 0.9723    |
+
+Discovery Execution Time: 0:00:05.145195
+Simulation Execution Time: 0:00:07.239169
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.22  |RED: 3.35  |CED: 0.0   |CTD: 9.29  |
+| 19        | -3.346    | 0.9721    |
+
+Discovery Execution Time: 0:00:05.182474
+Simulation Execution Time: 0:00:07.062685
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.46  |RED: 3.37  |CED: 0.0   |CTD: 8.55  |
+| 20        | -3.373    | 0.9722    |
+
+Discovery Execution Time: 0:00:05.063831
+Simulation Execution Time: 0:00:07.149994
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.45  |RED: 3.03  |CED: 0.0   |CTD: 10.14 | <-----------------------------------------
+| 21        | -3.034    | 0.973     |
+
+Discovery Execution Time: 0:00:05.214719
+Simulation Execution Time: 0:00:07.092058
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.21  |RED: 3.16  |CED: 0.0   |CTD: 9.58  |
+| 22        | -3.162    | 0.9728    |
+
+Discovery Execution Time: 0:00:05.076143
+Simulation Execution Time: 0:00:07.158714
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.22  |RED: 3.36  |CED: 0.0   |CTD: 9.01  |
+| 23        | -3.356    | 0.9717    |
+
+Discovery Execution Time: 0:00:05.046476
+Simulation Execution Time: 0:00:07.168845
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.19  |RED: 3.05  |CED: 0.0   |CTD: 10.22 |
+| 24        | -3.046    | 0.9714    |
+
+Discovery Execution Time: 0:00:05.057402
+Simulation Execution Time: 0:00:07.225162
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.89  |RED: 3.18  |CED: 0.0   |CTD: 9.06  |
+| 25        | -3.176    | 0.9713    |
+
+Discovery Execution Time: 0:00:05.087699
+Simulation Execution Time: 0:00:07.133604
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.66  |RED: 3.16  |CED: 0.0   |CTD: 9.26  |
+| 26        | -3.163    | 0.9714    |
+
+Discovery Execution Time: 0:00:05.130382
+Simulation Execution Time: 0:00:07.095582
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.28  |RED: 3.62  |CED: 0.0   |CTD: 8.61  |
+| 27        | -3.622    | 0.9715    |
+
+Discovery Execution Time: 0:00:05.101046
+Simulation Execution Time: 0:00:07.018667
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.49  |RED: 3.34  |CED: 0.0   |CTD: 8.5   |
+| 28        | -3.337    | 0.9712    |
+
+Discovery Execution Time: 0:00:05.206523
+Simulation Execution Time: 0:00:07.148073
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.21  |RED: 3.27  |CED: 0.0   |CTD: 9.19  |
+| 29        | -3.272    | 0.972     |
+
+Discovery Execution Time: 0:00:05.111884
+Simulation Execution Time: 0:00:06.947134
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.45  |RED: 3.39  |CED: 0.0   |CTD: 8.49  |
+| 30        | -3.393    | 0.9714    |
+=====================================
+Best result: {'angle': 0.9730122697585247}; f(x) = -3.0340873270585695.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.822997
+Simulation Execution Time: 0:00:06.782371
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.2   |RED: 2.92  |CED: 0.0   |CTD: 11.73 |
+| 1         | -2.919    | 0.967     |
+
+Discovery Execution Time: 0:00:04.238031
+Simulation Execution Time: 0:00:06.366318
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.66  |RED: 3.52  |CED: 0.0   |CTD: 6.06  |
+| 2         | -3.523    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.856133
+Simulation Execution Time: 0:00:06.914660
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.55  |RED: 3.02  |CED: 0.0   |CTD: 11.91 |
+| 3         | -3.017    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.543611
+Simulation Execution Time: 0:00:06.654787
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.93  |RED: 2.99  |CED: 0.0   |CTD: 9.77  |
+| 4         | -2.989    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.438286
+Simulation Execution Time: 0:00:06.651680
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.07  |RED: 2.75  |CED: 0.0   |CTD: 8.7   | <------------------------------------------------
+| 5         | -2.749    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.886113
+Simulation Execution Time: 0:00:06.913607
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.48  |RED: 3.09  |CED: 0.0   |CTD: 11.96 |
+| 6         | -3.095    | 0.967     |
+
+Discovery Execution Time: 0:00:04.496106
+Simulation Execution Time: 0:00:06.564181
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.31  |RED: 2.88  |CED: 0.0   |CTD: 9.12  |
+| 7         | -2.885    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.461715
+Simulation Execution Time: 0:00:06.549164
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.48  |RED: 2.99  |CED: 0.0   |CTD: 8.93  |
+| 8         | -2.99     | 0.6977    |
+
+Discovery Execution Time: 0:00:04.469750
+Simulation Execution Time: 0:00:06.609436
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.51  |RED: 2.85  |CED: 0.0   |CTD: 8.81  |
+| 9         | -2.847    | 0.7147    |
+
+Discovery Execution Time: 0:00:04.484809
+Simulation Execution Time: 0:00:06.670307
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.1   |RED: 2.92  |CED: 0.0   |CTD: 9.53  |
+| 10        | -2.917    | 0.7146    |
+
+Discovery Execution Time: 0:00:04.427170
+Simulation Execution Time: 0:00:06.692956
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.43  |RED: 2.86  |CED: 0.0   |CTD: 9.03  |
+| 11        | -2.856    | 0.7145    |
+
+Discovery Execution Time: 0:00:04.515403
+Simulation Execution Time: 0:00:06.532455
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.4   |RED: 3.09  |CED: 0.0   |CTD: 8.8   |
+| 12        | -3.092    | 0.7145    |
+
+Discovery Execution Time: 0:00:05.036658
+Simulation Execution Time: 0:00:07.027974
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.33  |RED: 3.12  |CED: 0.0   |CTD: 9.36  |
+| 13        | -3.116    | 0.7146    |
+
+Discovery Execution Time: 0:00:04.405056
+Simulation Execution Time: 0:00:06.979744
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.34  |RED: 2.95  |CED: 0.0   |CTD: 10.53 |
+| 14        | -2.95     | 0.7147    |
+
+Discovery Execution Time: 0:00:04.708557
+Simulation Execution Time: 0:00:06.874335
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.64  |RED: 2.97  |CED: 0.0   |CTD: 8.59  |
+| 15        | -2.975    | 0.7147    |
+
+Discovery Execution Time: 0:00:05.077479
+Simulation Execution Time: 0:00:07.187318
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.3   |RED: 2.97  |CED: 0.0   |CTD: 10.56 |
+| 16        | -2.966    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.738983
+Simulation Execution Time: 0:00:06.960385
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.22  |RED: 2.92  |CED: 0.0   |CTD: 8.75  |
+| 17        | -2.923    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.995553
+Simulation Execution Time: 0:00:07.254532
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.45  |RED: 2.96  |CED: 0.0   |CTD: 11.87 |
+| 18        | -2.961    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.657974
+Simulation Execution Time: 0:00:06.969291
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.35  |RED: 2.93  |CED: 0.0   |CTD: 8.78  |
+| 19        | -2.928    | 0.6979    |
+
+Discovery Execution Time: 0:00:04.731973
+Simulation Execution Time: 0:00:06.936192
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.58  |RED: 3.24  |CED: 0.0   |CTD: 8.64  |
+| 20        | -3.24     | 0.6977    |
+
+Discovery Execution Time: 0:00:04.796161
+Simulation Execution Time: 0:00:06.986230
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.22  |RED: 2.88  |CED: 0.0   |CTD: 9.21  |
+| 21        | -2.877    | 0.7147    |
+
+Discovery Execution Time: 0:00:04.965523
+Simulation Execution Time: 0:00:07.313142
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.58  |RED: 3.05  |CED: 0.0   |CTD: 8.47  |
+| 22        | -3.05     | 0.7149    |
+
+Discovery Execution Time: 0:00:05.455808
+Simulation Execution Time: 0:00:07.643103
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.4   |RED: 2.93  |CED: 0.0   |CTD: 12.36 |
+| 23        | -2.934    | 0.967     |
+
+Discovery Execution Time: 0:00:05.103842
+Simulation Execution Time: 0:00:07.271361
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.4   |RED: 2.85  |CED: 0.0   |CTD: 9.82  |
+| 24        | -2.849    | 0.6978    |
+
+Discovery Execution Time: 0:00:05.099009
+Simulation Execution Time: 0:00:07.437059
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.47  |RED: 2.95  |CED: 0.0   |CTD: 8.44  |
+| 25        | -2.946    | 0.6978    |
+
+Discovery Execution Time: 0:00:04.995349
+Simulation Execution Time: 0:00:07.152507
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.14  |RED: 2.89  |CED: 0.0   |CTD: 9.69  |
+| 26        | -2.893    | 0.7145    |
+
+Discovery Execution Time: 0:00:04.824981
+Simulation Execution Time: 0:00:07.080354
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.37  |RED: 2.87  |CED: 0.0   |CTD: 8.62  |
+| 27        | -2.866    | 0.6979    |
+
+Discovery Execution Time: 0:00:05.724517
+Simulation Execution Time: 0:00:10.619092
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.56  |RED: 3.06  |CED: 0.0   |CTD: 8.28  |
+| 28        | -3.058    | 0.6976    |
+
+Discovery Execution Time: 0:00:08.000897
+Simulation Execution Time: 0:00:10.718129
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.32  |RED: 3.0   |CED: 0.0   |CTD: 10.11 |
+| 29        | -2.995    | 0.9672    |
+
+Discovery Execution Time: 0:00:05.550719
+Simulation Execution Time: 0:00:06.477923
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.23  |RED: 2.94  |CED: 0.0   |CTD: 8.56  |
+| 30        | -2.94     | 0.698     |
+=====================================
+Best result: {'angle': 0.6977288245972708}; f(x) = -2.749231679613659.
+STARTING PROCESS: loan_application (ModelType.MULTI_LOCAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.789577
+Simulation Execution Time: 0:00:08.895645
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.23  |RED: 3.26  |CED: 0.0   |CTD: 8.92  |
+| 1         | -3.255    | 0.967     |
+
+Discovery Execution Time: 0:00:05.197279
+Simulation Execution Time: 0:00:07.860136
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.71  |RED: 4.43  |CED: 0.0   |CTD: 4.61  |
+| 2         | -4.433    | 0.5472    |
+
+Discovery Execution Time: 0:00:06.060417
+Simulation Execution Time: 0:00:08.678034
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.13  |RED: 3.07  |CED: 0.0   |CTD: 10.37 |  <-----------------------------------
+| 3         | -3.067    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.720493
+Simulation Execution Time: 0:00:08.671829
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.59  |RED: 3.93  |CED: 0.0   |CTD: 5.86  |
+| 4         | -3.926    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.797097
+Simulation Execution Time: 0:00:09.123912
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.51  |RED: 4.02  |CED: 0.0   |CTD: 6.4   |
+| 5         | -4.019    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.709591
+Simulation Execution Time: 0:00:08.496110
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.26  |RED: 3.32  |CED: 0.0   |CTD: 8.55  |
+| 6         | -3.319    | 0.967     |
+
+Discovery Execution Time: 0:00:06.010145
+Simulation Execution Time: 0:00:08.888715
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.07  |RED: 3.22  |CED: 0.0   |CTD: 9.65  |
+| 7         | -3.216    | 0.9674    |
+
+Discovery Execution Time: 0:00:06.129237
+Simulation Execution Time: 0:00:09.152140
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.27  |RED: 3.55  |CED: 0.0   |CTD: 8.21  |
+| 8         | -3.552    | 0.9731    |
+
+Discovery Execution Time: 0:00:06.507537
+Simulation Execution Time: 0:00:08.992456
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.12  |RED: 3.21  |CED: 0.0   |CTD: 9.53  |
+| 9         | -3.207    | 0.9723    |
+
+Discovery Execution Time: 0:00:05.864488
+Simulation Execution Time: 0:00:08.915272
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.25  |RED: 3.1   |CED: 0.0   |CTD: 9.34  |
+| 10        | -3.104    | 0.9716    |
+
+Discovery Execution Time: 0:00:06.315187
+Simulation Execution Time: 0:00:09.182219
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.57  |RED: 3.32  |CED: 0.0   |CTD: 9.45  |
+| 11        | -3.32     | 0.9712    |
+
+Discovery Execution Time: 0:00:06.399978
+Simulation Execution Time: 0:00:08.762885
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.01  |RED: 3.21  |CED: 0.0   |CTD: 8.8   |
+| 12        | -3.206    | 0.9705    |
+
+Discovery Execution Time: 0:00:06.022394
+Simulation Execution Time: 0:00:08.806719
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.04  |RED: 3.07  |CED: 0.0   |CTD: 9.26  |
+| 13        | -3.071    | 0.9699    |
+
+Discovery Execution Time: 0:00:05.641570
+Simulation Execution Time: 0:00:08.214707
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.17  |RED: 3.19  |CED: 0.0   |CTD: 9.53  |
+| 14        | -3.186    | 0.9694    |
+
+Discovery Execution Time: 0:00:05.626229
+Simulation Execution Time: 0:00:08.313861
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.21  |RED: 3.17  |CED: 0.0   |CTD: 9.79  |
+| 15        | -3.165    | 0.9687    |
+
+Discovery Execution Time: 0:00:05.701394
+Simulation Execution Time: 0:00:08.157009
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.4   |RED: 3.55  |CED: 0.0   |CTD: 8.14  |
+| 16        | -3.55     | 0.9681    |
+
+Discovery Execution Time: 0:00:05.564866
+Simulation Execution Time: 0:00:08.045624
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.08  |RED: 3.5   |CED: 0.0   |CTD: 7.7   |
+| 17        | -3.501    | 0.8272    |
+
+Discovery Execution Time: 0:00:04.942163
+Simulation Execution Time: 0:00:07.561160
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 5.28  |RED: 5.86  |CED: 0.0   |CTD: 3.05  |
+| 18        | -5.857    | 0.4545    |
+
+Discovery Execution Time: 0:00:05.539558
+Simulation Execution Time: 0:00:08.030467
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.33  |RED: 3.76  |CED: 0.0   |CTD: 7.52  |
+| 19        | -3.759    | 0.8256    |
+
+Discovery Execution Time: 0:00:05.503709
+Simulation Execution Time: 0:00:08.010065
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.2   |RED: 3.72  |CED: 0.0   |CTD: 7.72  |
+| 20        | -3.719    | 0.8288    |
+
+Discovery Execution Time: 0:00:04.628619
+Simulation Execution Time: 0:00:07.244472
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 6.37  |RED: 6.76  |CED: 0.0   |CTD: 5.92  |
+| 21        | -6.763    | 0.2171    |
+
+Discovery Execution Time: 0:00:05.329248
+Simulation Execution Time: 0:00:07.939080
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.23  |RED: 3.83  |CED: 0.0   |CTD: 6.56  |
+| 22        | -3.828    | 0.7373    |
+
+Discovery Execution Time: 0:00:04.801704
+Simulation Execution Time: 0:00:07.566173
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 5.42  |RED: 5.75  |CED: 0.0   |CTD: 2.78  |
+| 23        | -5.745    | 0.3795    |
+
+Discovery Execution Time: 0:00:05.535150
+Simulation Execution Time: 0:00:07.959460
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.45  |RED: 3.79  |CED: 0.0   |CTD: 7.39  |
+| 24        | -3.788    | 0.8315    |
+
+Discovery Execution Time: 0:00:05.456405
+Simulation Execution Time: 0:00:08.131585
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.55  |RED: 3.58  |CED: 0.0   |CTD: 7.96  |
+| 25        | -3.581    | 0.8344    |
+
+Discovery Execution Time: 0:00:05.512634
+Simulation Execution Time: 0:00:08.053350
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.84  |RED: 3.18  |CED: 0.0   |CTD: 8.75  |
+| 26        | -3.18     | 0.8363    |
+
+Discovery Execution Time: 0:00:05.557091
+Simulation Execution Time: 0:00:08.045708
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.53  |RED: 3.46  |CED: 0.0   |CTD: 8.55  |
+| 27        | -3.456    | 0.8375    |
+
+Discovery Execution Time: 0:00:05.515270
+Simulation Execution Time: 0:00:08.059153
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.95  |RED: 3.4   |CED: 0.0   |CTD: 7.66  |
+| 28        | -3.398    | 0.8392    |
+
+Discovery Execution Time: 0:00:05.405927
+Simulation Execution Time: 0:00:08.018944
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.3   |RED: 3.58  |CED: 0.0   |CTD: 7.43  |
+| 29        | -3.581    | 0.8408    |
+
+Discovery Execution Time: 0:00:05.440691
+Simulation Execution Time: 0:00:08.099672
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.25  |RED: 3.14  |CED: 0.0   |CTD: 8.43  |
+| 30        | -3.138    | 0.8426    |
+=====================================
+Best result: {'angle': 0.9726843599648843}; f(x) = -3.0666032480490646.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 3, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.860047
+Simulation Execution Time: 0:00:08.472887
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.09  |RED: 2.88  |CED: 0.0   |CTD: 11.06 |
+| 1         | -2.878    | 0.967     |
+
+Discovery Execution Time: 0:00:05.198629
+Simulation Execution Time: 0:00:07.943006
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.67  |RED: 3.42  |CED: 0.0   |CTD: 6.1   |
+| 2         | -3.419    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.705548
+Simulation Execution Time: 0:00:08.519281
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.65  |RED: 3.03  |CED: 0.0   |CTD: 11.49 |
+| 3         | -3.034    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.365337
+Simulation Execution Time: 0:00:08.136382
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.61  |RED: 2.81  |CED: 0.0   |CTD: 8.1   |
+| 4         | -2.806    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.288356
+Simulation Execution Time: 0:00:08.088837
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.78  |RED: 2.97  |CED: 0.0   |CTD: 8.8   |
+| 5         | -2.968    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.348733
+Simulation Execution Time: 0:00:08.165954
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.48  |RED: 2.89  |CED: 0.0   |CTD: 9.5   |
+| 6         | -2.887    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.740554
+Simulation Execution Time: 0:00:08.496627
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.1   |RED: 2.76  |CED: 0.0   |CTD: 12.2  |  <-------------------------------------------------------
+| 7         | -2.76     | 0.9669    |
+
+Discovery Execution Time: 0:00:05.759056
+Simulation Execution Time: 0:00:08.403150
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.49  |RED: 2.99  |CED: 0.0   |CTD: 10.02 |
+| 8         | -2.985    | 0.9668    |
+
+Discovery Execution Time: 0:00:05.341429
+Simulation Execution Time: 0:00:08.153492
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 2.96  |RED: 2.96  |CED: 0.0   |CTD: 9.35  |
+| 9         | -2.955    | 0.715     |
+
+Discovery Execution Time: 0:00:05.395466
+Simulation Execution Time: 0:00:08.164364
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.43  |RED: 2.85  |CED: 0.0   |CTD: 9.19  |
+| 10        | -2.847    | 0.7149    |
+
+Discovery Execution Time: 0:00:05.686756
+Simulation Execution Time: 0:00:08.495745
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.3   |RED: 2.82  |CED: 0.0   |CTD: 11.59 |
+| 11        | -2.819    | 0.9674    |
+
+Discovery Execution Time: 0:00:05.676922
+Simulation Execution Time: 0:00:08.468735
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.36  |RED: 2.94  |CED: 0.0   |CTD: 11.36 |
+| 12        | -2.938    | 0.9674    |
+
+Discovery Execution Time: 0:00:05.708456
+Simulation Execution Time: 0:00:08.424022
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.26  |RED: 2.91  |CED: 0.0   |CTD: 11.94 |
+| 13        | -2.913    | 0.9675    |
+
+Discovery Execution Time: 0:00:05.713062
+Simulation Execution Time: 0:00:08.462851
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.39  |RED: 2.99  |CED: 0.0   |CTD: 11.13 |
+| 14        | -2.989    | 0.967     |
+
+Discovery Execution Time: 0:00:05.699498
+Simulation Execution Time: 0:00:08.484952
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.65  |RED: 2.95  |CED: 0.0   |CTD: 12.06 |
+| 15        | -2.946    | 0.9669    |
+
+Discovery Execution Time: 0:00:05.738682
+Simulation Execution Time: 0:00:08.534293
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.07  |RED: 2.91  |CED: 0.0   |CTD: 13.53 |
+| 16        | -2.908    | 0.9671    |
+
+Discovery Execution Time: 0:00:05.661761
+Simulation Execution Time: 0:00:08.365244
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.5   |RED: 2.98  |CED: 0.0   |CTD: 11.91 |
+| 17        | -2.978    | 0.9674    |
+
+Discovery Execution Time: 0:00:05.379594
+Simulation Execution Time: 0:00:08.196042
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.08  |RED: 2.91  |CED: 0.0   |CTD: 9.05  |
+| 18        | -2.907    | 0.7149    |
+
+Discovery Execution Time: 0:00:05.659493
+Simulation Execution Time: 0:00:08.481585
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.18  |RED: 2.85  |CED: 0.0   |CTD: 12.21 |
+| 19        | -2.853    | 0.9675    |
+
+Discovery Execution Time: 0:00:05.755896
+Simulation Execution Time: 0:00:08.478632
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.31  |RED: 3.04  |CED: 0.0   |CTD: 12.91 |
+| 20        | -3.038    | 0.9675    |
+
+Discovery Execution Time: 0:00:05.696317
+Simulation Execution Time: 0:00:08.507331
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.16  |RED: 2.89  |CED: 0.0   |CTD: 11.95 |
+| 21        | -2.895    | 0.9671    |
+
+Discovery Execution Time: 0:00:05.733235
+Simulation Execution Time: 0:00:08.451290
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.24  |RED: 2.88  |CED: 0.0   |CTD: 12.26 |
+| 22        | -2.879    | 0.9677    |
+
+Discovery Execution Time: 0:00:05.692765
+Simulation Execution Time: 0:00:08.493740
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.02  |RED: 2.84  |CED: 0.0   |CTD: 12.41 |
+| 23        | -2.84     | 0.9669    |
+
+Discovery Execution Time: 0:00:04.959362
+Simulation Execution Time: 0:00:07.774422
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 4.72  |RED: 4.37  |CED: 0.0   |CTD: 3.33  |
+| 24        | -4.369    | 0.4185    |
+
+Discovery Execution Time: 0:00:05.321906
+Simulation Execution Time: 0:00:08.116010
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.59  |RED: 3.1   |CED: 0.0   |CTD: 8.53  |
+| 25        | -3.102    | 0.6979    |
+
+Discovery Execution Time: 0:00:05.703856
+Simulation Execution Time: 0:00:08.428994
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.39  |RED: 2.86  |CED: 0.0   |CTD: 11.23 |
+| 26        | -2.86     | 0.9672    |
+
+Discovery Execution Time: 0:00:05.651830
+Simulation Execution Time: 0:00:08.466571
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.4   |RED: 2.94  |CED: 0.0   |CTD: 10.72 |
+| 27        | -2.939    | 0.9666    |
+
+Discovery Execution Time: 0:00:05.745111
+Simulation Execution Time: 0:00:08.355372
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.38  |RED: 2.94  |CED: 0.0   |CTD: 10.96 |
+| 28        | -2.94     | 0.9678    |
+
+Discovery Execution Time: 0:00:05.675277
+Simulation Execution Time: 0:00:08.400623
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.3   |RED: 2.82  |CED: 0.0   |CTD: 12.62 |
+| 29        | -2.817    | 0.9679    |
+
+Discovery Execution Time: 0:00:05.657484
+Simulation Execution Time: 0:00:08.400470
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 3.31  |RED: 2.86  |CED: 0.0   |CTD: 11.79 |
+| 30        | -2.86     | 0.968     |
+=====================================
+Best result: {'angle': 0.9669247250604678}; f(x) = -2.7598341665279236.
+STARTING PROCESS: loan_application (ModelType.SEQUENTIAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.013888
+Simulation Execution Time: 0:00:07.002584
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 461.28|RED: 457.86|CED: 0.0   |CTD: 660.59|
+| 1         | -457.9    | 0.967     |
+
+Discovery Execution Time: 0:00:03.487686
+Simulation Execution Time: 0:00:06.448332
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 390.48|RED: 388.42|CED: 0.0   |CTD: 553.45|
+| 2         | -388.4    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.952719
+Simulation Execution Time: 0:00:07.064629
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 465.15|RED: 461.56|CED: 0.0   |CTD: 669.2 |
+| 3         | -461.6    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.725318
+Simulation Execution Time: 0:00:06.701610
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 446.7 |RED: 443.99|CED: 0.0   |CTD: 641.07|
+| 4         | -444.0    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.674639
+Simulation Execution Time: 0:00:06.625011
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 441.09|RED: 437.9 |CED: 0.0   |CTD: 626.65|
+| 5         | -437.9    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.599391
+Simulation Execution Time: 0:00:06.362555
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 395.35|RED: 392.89|CED: 0.0   |CTD: 563.24|
+| 6         | -392.9    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.586813
+Simulation Execution Time: 0:00:06.433373
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 400.42|RED: 397.27|CED: 0.0   |CTD: 565.26|
+| 7         | -397.3    | 0.5476    |
+
+Discovery Execution Time: 0:00:03.593052
+Simulation Execution Time: 0:00:06.374065
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 386.69|RED: 383.67|CED: 0.0   |CTD: 541.72|
+| 8         | -383.7    | 0.5484    |
+
+Discovery Execution Time: 0:00:03.514751
+Simulation Execution Time: 0:00:06.433940
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 395.74|RED: 392.72|CED: 0.0   |CTD: 553.12|
+| 9         | -392.7    | 0.5488    |
+
+Discovery Execution Time: 0:00:03.573889
+Simulation Execution Time: 0:00:06.388587
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 391.93|RED: 388.41|CED: 0.0   |CTD: 552.0 |
+| 10        | -388.4    | 0.5495    |
+
+Discovery Execution Time: 0:00:03.499276
+Simulation Execution Time: 0:00:06.352752
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 393.3 |RED: 389.96|CED: 0.0   |CTD: 552.91|
+| 11        | -390.0    | 0.55      |
+
+Discovery Execution Time: 0:00:03.608465
+Simulation Execution Time: 0:00:06.375482
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 409.88|RED: 407.0 |CED: 0.0   |CTD: 563.24|
+| 12        | -407.0    | 0.5506    |
+
+Discovery Execution Time: 0:00:03.582399
+Simulation Execution Time: 0:00:06.393226
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 388.1 |RED: 385.33|CED: 0.0   |CTD: 543.8 |
+| 13        | -385.3    | 0.5519    |
+
+Discovery Execution Time: 0:00:03.544462
+Simulation Execution Time: 0:00:06.343738
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 396.74|RED: 393.52|CED: 0.0   |CTD: 566.61|
+| 14        | -393.5    | 0.5524    |
+
+Discovery Execution Time: 0:00:03.555938
+Simulation Execution Time: 0:00:06.457677
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 392.65|RED: 389.67|CED: 0.0   |CTD: 552.95|
+| 15        | -389.7    | 0.5513    |
+
+Discovery Execution Time: 0:00:03.588538
+Simulation Execution Time: 0:00:06.340169
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 388.01|RED: 385.0 |CED: 0.0   |CTD: 531.8 |
+| 16        | -385.0    | 0.5532    |
+
+Discovery Execution Time: 0:00:03.605015
+Simulation Execution Time: 0:00:06.388577
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 401.45|RED: 398.36|CED: 0.0   |CTD: 558.46|
+| 17        | -398.4    | 0.5538    |
+
+Discovery Execution Time: 0:00:03.582769
+Simulation Execution Time: 0:00:06.423177
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 394.54|RED: 391.45|CED: 0.0   |CTD: 545.62|
+| 18        | -391.4    | 0.5549    |
+
+Discovery Execution Time: 0:00:03.587541
+Simulation Execution Time: 0:00:06.382550
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 390.33|RED: 387.3 |CED: 0.0   |CTD: 550.05|
+| 19        | -387.3    | 0.5555    |
+
+Discovery Execution Time: 0:00:03.590436
+Simulation Execution Time: 0:00:06.363498
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 394.5 |RED: 391.32|CED: 0.0   |CTD: 544.64|
+| 20        | -391.3    | 0.5561    |
+
+Discovery Execution Time: 0:00:03.541674
+Simulation Execution Time: 0:00:06.334304
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 391.27|RED: 387.93|CED: 0.0   |CTD: 553.9 |
+| 21        | -387.9    | 0.5569    |
+
+Discovery Execution Time: 0:00:03.544988
+Simulation Execution Time: 0:00:06.377242
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 392.04|RED: 389.29|CED: 0.0   |CTD: 548.26|
+| 22        | -389.3    | 0.5576    |
+
+Discovery Execution Time: 0:00:03.594652
+Simulation Execution Time: 0:00:06.398356
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 384.9 |RED: 382.32|CED: 0.0   |CTD: 544.14| <-----------------------------------------
+| 23        | -382.3    | 0.5583    |
+
+Discovery Execution Time: 0:00:03.577913
+Simulation Execution Time: 0:00:06.494314
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 391.86|RED: 389.24|CED: 0.0   |CTD: 552.55|
+| 24        | -389.2    | 0.5589    |
+
+Discovery Execution Time: 0:00:03.612917
+Simulation Execution Time: 0:00:06.373743
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 387.17|RED: 384.52|CED: 0.0   |CTD: 556.86|
+| 25        | -384.5    | 0.5597    |
+
+Discovery Execution Time: 0:00:03.564494
+Simulation Execution Time: 0:00:06.395588
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 387.73|RED: 384.68|CED: 0.0   |CTD: 557.14|
+| 26        | -384.7    | 0.5602    |
+
+Discovery Execution Time: 0:00:03.628578
+Simulation Execution Time: 0:00:06.454929
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 394.92|RED: 392.04|CED: 0.0   |CTD: 561.82|
+| 27        | -392.0    | 0.5608    |
+
+Discovery Execution Time: 0:00:03.639004
+Simulation Execution Time: 0:00:06.563039
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 392.12|RED: 389.18|CED: 0.0   |CTD: 551.52|
+| 28        | -389.2    | 0.5618    |
+
+Discovery Execution Time: 0:00:03.595903
+Simulation Execution Time: 0:00:06.465299
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 397.61|RED: 394.69|CED: 0.0   |CTD: 555.85|
+| 29        | -394.7    | 0.5625    |
+
+Discovery Execution Time: 0:00:03.555863
+Simulation Execution Time: 0:00:06.369346
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 392.14|RED: 389.76|CED: 0.0   |CTD: 553.64|
+| 30        | -389.8    | 0.5635    |
+=====================================
+Best result: {'angle': 0.5583330973929881}; f(x) = -382.3180359391062.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:03.921515
+Simulation Execution Time: 0:00:07.135807
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 462.03|RED: 459.78|CED: 0.0   |CTD: 674.22|
+| 1         | -459.8    | 0.967     |
+
+Discovery Execution Time: 0:00:03.590949
+Simulation Execution Time: 0:00:06.422154
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 373.17|RED: 370.3 |CED: 0.0   |CTD: 534.37|
+| 2         | -370.3    | 0.5472    |
+
+Discovery Execution Time: 0:00:03.790567
+Simulation Execution Time: 0:00:07.013481
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 442.09|RED: 439.9 |CED: 0.0   |CTD: 648.36|
+| 3         | -439.9    | 0.9727    |
+
+Discovery Execution Time: 0:00:03.673963
+Simulation Execution Time: 0:00:06.610533
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 410.18|RED: 408.3 |CED: 0.0   |CTD: 607.25|
+| 4         | -408.3    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.609991
+Simulation Execution Time: 0:00:06.698142
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 417.68|RED: 415.28|CED: 0.0   |CTD: 602.91|
+| 5         | -415.3    | 0.6977    |
+
+Discovery Execution Time: 0:00:03.669381
+Simulation Execution Time: 0:00:06.620397
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 405.48|RED: 402.94|CED: 0.0   |CTD: 577.16|
+| 6         | -402.9    | 0.7148    |
+
+Discovery Execution Time: 0:00:03.548233
+Simulation Execution Time: 0:00:06.513296
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 382.27|RED: 379.64|CED: 0.0   |CTD: 533.88|
+| 7         | -379.6    | 0.5471    |
+
+Discovery Execution Time: 0:00:03.554744
+Simulation Execution Time: 0:00:06.454301
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 373.8 |RED: 371.87|CED: 0.0   |CTD: 547.28|
+| 8         | -371.9    | 0.5475    |
+
+Discovery Execution Time: 0:00:03.763001
+Simulation Execution Time: 0:00:06.744359
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 412.6 |RED: 410.94|CED: 0.0   |CTD: 603.6 |
+| 9         | -410.9    | 0.7153    |
+
+Discovery Execution Time: 0:00:03.543555
+Simulation Execution Time: 0:00:06.510560
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 383.03|RED: 380.87|CED: 0.0   |CTD: 556.26|
+| 10        | -380.9    | 0.5479    |
+
+Discovery Execution Time: 0:00:03.580647
+Simulation Execution Time: 0:00:06.405848
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 381.13|RED: 378.36|CED: 0.0   |CTD: 543.81|
+| 11        | -378.4    | 0.5483    |
+
+Discovery Execution Time: 0:00:03.585621
+Simulation Execution Time: 0:00:06.489828
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 369.85|RED: 367.21|CED: 0.0   |CTD: 539.62|
+| 12        | -367.2    | 0.5487    |
+
+Discovery Execution Time: 0:00:03.631755
+Simulation Execution Time: 0:00:06.486467
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 384.61|RED: 382.17|CED: 0.0   |CTD: 554.48|
+| 13        | -382.2    | 0.549     |
+
+Discovery Execution Time: 0:00:03.547209
+Simulation Execution Time: 0:00:06.483312
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 384.74|RED: 382.38|CED: 0.0   |CTD: 549.43|
+| 14        | -382.4    | 0.5496    |
+
+Discovery Execution Time: 0:00:03.537271
+Simulation Execution Time: 0:00:06.340556
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 371.6 |RED: 369.92|CED: 0.0   |CTD: 540.34|
+| 15        | -369.9    | 0.5501    |
+
+Discovery Execution Time: 0:00:03.569045
+Simulation Execution Time: 0:00:06.442433
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 383.58|RED: 380.82|CED: 0.0   |CTD: 546.14|
+| 16        | -380.8    | 0.5504    |
+
+Discovery Execution Time: 0:00:03.591775
+Simulation Execution Time: 0:00:06.329181
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 375.04|RED: 372.39|CED: 0.0   |CTD: 541.08|
+| 17        | -372.4    | 0.5511    |
+
+Discovery Execution Time: 0:00:03.524526
+Simulation Execution Time: 0:00:06.508064
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 383.04|RED: 380.93|CED: 0.0   |CTD: 567.43|
+| 18        | -380.9    | 0.5515    |
+
+Discovery Execution Time: 0:00:03.586392
+Simulation Execution Time: 0:00:06.406613
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 378.03|RED: 375.68|CED: 0.0   |CTD: 548.42|
+| 19        | -375.7    | 0.552     |
+
+Discovery Execution Time: 0:00:03.638092
+Simulation Execution Time: 0:00:06.296762
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 371.69|RED: 369.64|CED: 0.0   |CTD: 534.04|
+| 20        | -369.6    | 0.5525    |
+
+Discovery Execution Time: 0:00:03.570823
+Simulation Execution Time: 0:00:06.348665
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 374.79|RED: 372.58|CED: 0.0   |CTD: 541.04|
+| 21        | -372.6    | 0.5529    |
+
+Discovery Execution Time: 0:00:03.564876
+Simulation Execution Time: 0:00:06.476083
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 376.56|RED: 374.49|CED: 0.0   |CTD: 541.94|
+| 22        | -374.5    | 0.5534    |
+
+Discovery Execution Time: 0:00:03.526771
+Simulation Execution Time: 0:00:06.495157
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 374.92|RED: 372.85|CED: 0.0   |CTD: 541.63|
+| 23        | -372.9    | 0.5538    |
+
+Discovery Execution Time: 0:00:03.565362
+Simulation Execution Time: 0:00:06.416843
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 363.85|RED: 360.76|CED: 0.0   |CTD: 521.12| <--------------------------------------------
+| 24        | -360.8    | 0.5544    |
+
+Discovery Execution Time: 0:00:03.496669
+Simulation Execution Time: 0:00:06.351026
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 370.51|RED: 368.5 |CED: 0.0   |CTD: 543.65|
+| 25        | -368.5    | 0.5547    |
+
+Discovery Execution Time: 0:00:03.569940
+Simulation Execution Time: 0:00:06.450648
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 377.9 |RED: 375.98|CED: 0.0   |CTD: 556.11|
+| 26        | -376.0    | 0.5552    |
+
+Discovery Execution Time: 0:00:03.568284
+Simulation Execution Time: 0:00:06.466966
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 375.4 |RED: 372.86|CED: 0.0   |CTD: 544.09|
+| 27        | -372.9    | 0.5541    |
+
+Discovery Execution Time: 0:00:03.599066
+Simulation Execution Time: 0:00:06.448938
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 378.53|RED: 376.11|CED: 0.0   |CTD: 549.03|
+| 28        | -376.1    | 0.5559    |
+
+Discovery Execution Time: 0:00:03.523190
+Simulation Execution Time: 0:00:06.410070
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 379.76|RED: 376.53|CED: 0.0   |CTD: 542.53|
+| 29        | -376.5    | 0.5565    |
+
+Discovery Execution Time: 0:00:03.578374
+Simulation Execution Time: 0:00:06.453598
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 385.19|RED: 382.73|CED: 0.0   |CTD: 556.29|
+| 30        | -382.7    | 0.5573    |
+=====================================
+Best result: {'angle': 0.5543852125823048}; f(x) = -360.7619925942804.
+STARTING PROCESS: loan_application (ModelType.MULTI_GLOBAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.693350
+Simulation Execution Time: 0:00:07.533916
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.35 |RED: 6.21  |CED: 0.0   |CTD: 8.28  |
+| 1         | -6.212    | 0.967     |
+
+Discovery Execution Time: 0:00:04.231706
+Simulation Execution Time: 0:00:07.024068
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.23  |RED: 9.82  |CED: 0.0   |CTD: 11.53 |
+| 2         | -9.817    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.592731
+Simulation Execution Time: 0:00:07.543350
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.0  |RED: 6.18  |CED: 0.0   |CTD: 7.52  |
+| 3         | -6.183    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.305239
+Simulation Execution Time: 0:00:07.292005
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.32  |RED: 7.31  |CED: 0.0   |CTD: 7.94  |
+| 4         | -7.308    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.322250
+Simulation Execution Time: 0:00:07.261194
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.67  |RED: 7.75  |CED: 0.0   |CTD: 7.96  |
+| 5         | -7.748    | 0.6977    |
+
+Discovery Execution Time: 0:00:04.624802
+Simulation Execution Time: 0:00:07.404003
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.29 |RED: 6.85  |CED: 0.0   |CTD: 7.37  |
+| 6         | -6.848    | 0.967     |
+
+Discovery Execution Time: 0:00:04.661705
+Simulation Execution Time: 0:00:07.523278
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.97  |RED: 5.96  |CED: 0.0   |CTD: 8.13  |
+| 7         | -5.959    | 0.9728    |
+
+Discovery Execution Time: 0:00:04.594273
+Simulation Execution Time: 0:00:07.364500
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.09 |RED: 6.75  |CED: 0.0   |CTD: 7.52  |
+| 8         | -6.753    | 0.9671    |
+
+Discovery Execution Time: 0:00:04.642225
+Simulation Execution Time: 0:00:07.577544
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.2  |RED: 6.59  |CED: 0.0   |CTD: 8.24  |
+| 9         | -6.592    | 0.9729    |
+
+Discovery Execution Time: 0:00:04.625095
+Simulation Execution Time: 0:00:07.590819
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.32 |RED: 6.31  |CED: 0.0   |CTD: 8.14  |
+| 10        | -6.315    | 0.9724    |
+
+Discovery Execution Time: 0:00:04.609715
+Simulation Execution Time: 0:00:07.467228
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.69  |RED: 6.22  |CED: 0.0   |CTD: 7.85  |
+| 11        | -6.224    | 0.9723    |
+
+Discovery Execution Time: 0:00:04.719864
+Simulation Execution Time: 0:00:07.559023
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.97  |RED: 5.78  |CED: 0.0   |CTD: 8.7   | <-----------------------------------------------------
+| 12        | -5.784    | 0.9722    |
+
+Discovery Execution Time: 0:00:04.657024
+Simulation Execution Time: 0:00:07.485433
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.92  |RED: 6.52  |CED: 0.0   |CTD: 8.14  |
+| 13        | -6.523    | 0.9721    |
+
+Discovery Execution Time: 0:00:04.578915
+Simulation Execution Time: 0:00:07.553028
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.98  |RED: 6.05  |CED: 0.0   |CTD: 8.01  |
+| 14        | -6.045    | 0.9722    |
+
+Discovery Execution Time: 0:00:04.015061
+Simulation Execution Time: 0:00:06.710377
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.78 |RED: 11.8  |CED: 0.0   |CTD: 14.7  |
+| 15        | -11.8     | 0.3612    |
+
+Discovery Execution Time: 0:00:04.789264
+Simulation Execution Time: 0:00:07.444207
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.68  |RED: 6.13  |CED: 0.0   |CTD: 7.41  |
+| 16        | -6.129    | 0.9733    |
+
+Discovery Execution Time: 0:00:04.701160
+Simulation Execution Time: 0:00:07.446295
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.03 |RED: 6.32  |CED: 0.0   |CTD: 7.58  |
+| 17        | -6.318    | 0.9731    |
+
+Discovery Execution Time: 0:00:04.712857
+Simulation Execution Time: 0:00:07.537667
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.66  |RED: 6.43  |CED: 0.0   |CTD: 8.53  |
+| 18        | -6.435    | 0.9736    |
+
+Discovery Execution Time: 0:00:04.721679
+Simulation Execution Time: 0:00:07.558560
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.37 |RED: 6.09  |CED: 0.0   |CTD: 7.73  |
+| 19        | -6.086    | 0.9738    |
+
+Discovery Execution Time: 0:00:04.628203
+Simulation Execution Time: 0:00:07.446115
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.15 |RED: 6.81  |CED: 0.0   |CTD: 7.85  |
+| 20        | -6.81     | 0.9743    |
+
+Discovery Execution Time: 0:00:04.732815
+Simulation Execution Time: 0:00:07.460096
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.0  |RED: 6.44  |CED: 0.0   |CTD: 8.16  |
+| 21        | -6.444    | 0.974     |
+
+Discovery Execution Time: 0:00:05.339907
+Simulation Execution Time: 0:00:08.429786
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.5  |RED: 7.18  |CED: 0.0   |CTD: 8.48  |
+| 22        | -7.185    | 0.9748    |
+
+Discovery Execution Time: 0:00:04.554583
+Simulation Execution Time: 0:00:07.692887
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.41  |RED: 11.72 |CED: 0.0   |CTD: 14.39 |
+| 23        | -11.72    | 0.3795    |
+
+Discovery Execution Time: 0:00:04.467151
+Simulation Execution Time: 0:00:07.838271
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.78  |RED: 8.59  |CED: 0.0   |CTD: 11.22 |
+| 24        | -8.587    | 0.4185    |
+
+Discovery Execution Time: 0:00:04.910923
+Simulation Execution Time: 0:00:08.310941
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.98  |RED: 7.2   |CED: 0.0   |CTD: 7.78  |
+| 25        | -7.198    | 0.7095    |
+
+Discovery Execution Time: 0:00:03.951581
+Simulation Execution Time: 0:00:06.839919
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 13.19 |RED: 15.41 |CED: 0.0   |CTD: 22.46 |
+| 26        | -15.41    | 0.00127   |
+
+Discovery Execution Time: 0:00:04.544534
+Simulation Execution Time: 0:00:07.714567
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.79  |RED: 6.75  |CED: 0.0   |CTD: 7.12  |
+| 27        | -6.75     | 0.7099    |
+
+Discovery Execution Time: 0:00:04.544129
+Simulation Execution Time: 0:00:07.490807
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.94  |RED: 6.78  |CED: 0.0   |CTD: 7.53  |
+| 28        | -6.778    | 0.7103    |
+
+Discovery Execution Time: 0:00:04.662543
+Simulation Execution Time: 0:00:07.811758
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.17  |RED: 6.99  |CED: 0.0   |CTD: 8.04  |
+| 29        | -6.992    | 0.7106    |
+
+Discovery Execution Time: 0:00:04.935906
+Simulation Execution Time: 0:00:08.041569
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.03 |RED: 6.33  |CED: 0.0   |CTD: 7.66  |
+| 30        | -6.328    | 0.9752    |
+=====================================
+Best result: {'angle': 0.9722336345359224}; f(x) = -5.783637582393553.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:04.893523
+Simulation Execution Time: 0:00:07.971728
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.45  |RED: 5.16  |CED: 0.0   |CTD: 7.79  |
+| 1         | -5.158    | 0.967     |
+
+Discovery Execution Time: 0:00:04.275111
+Simulation Execution Time: 0:00:07.018415
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.93  |RED: 8.81  |CED: 0.0   |CTD: 11.13 |
+| 2         | -8.805    | 0.5472    |
+
+Discovery Execution Time: 0:00:04.632920
+Simulation Execution Time: 0:00:07.690050
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.02  |RED: 4.99  |CED: 0.0   |CTD: 9.11  |
+| 3         | -4.995    | 0.9727    |
+
+Discovery Execution Time: 0:00:04.849391
+Simulation Execution Time: 0:00:07.373475
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.3   |RED: 6.75  |CED: 0.0   |CTD: 7.88  |
+| 4         | -6.746    | 0.7148    |
+
+Discovery Execution Time: 0:00:04.427776
+Simulation Execution Time: 0:00:07.342682
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.7   |RED: 7.44  |CED: 0.0   |CTD: 8.34  |
+| 5         | -7.44     | 0.6977    |
+
+Discovery Execution Time: 0:00:04.916314
+Simulation Execution Time: 0:00:07.966481
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.64  |RED: 4.64  |CED: 0.0   |CTD: 9.45  |
+| 6         | -4.638    | 0.967     |
+
+Discovery Execution Time: 0:00:04.877301
+Simulation Execution Time: 0:00:08.108819
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.36  |RED: 4.54  |CED: 0.0   |CTD: 8.61  |
+| 7         | -4.544    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.833647
+Simulation Execution Time: 0:00:07.990437
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.85  |RED: 5.33  |CED: 0.0   |CTD: 7.95  |
+| 8         | -5.325    | 0.9725    |
+
+Discovery Execution Time: 0:00:04.825519
+Simulation Execution Time: 0:00:08.166023
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.93  |RED: 4.77  |CED: 0.0   |CTD: 8.68  |
+| 9         | -4.77     | 0.9729    |
+
+Discovery Execution Time: 0:00:04.952987
+Simulation Execution Time: 0:00:08.699044
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.46  |RED: 5.13  |CED: 0.0   |CTD: 8.13  |
+| 10        | -5.126    | 0.9666    |
+
+Discovery Execution Time: 0:00:04.795235
+Simulation Execution Time: 0:00:08.639188
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.58  |RED: 5.23  |CED: 0.0   |CTD: 8.07  |
+| 11        | -5.228    | 0.9733    |
+
+Discovery Execution Time: 0:00:04.702313
+Simulation Execution Time: 0:00:07.679800
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.29  |RED: 5.18  |CED: 0.0   |CTD: 7.71  |
+| 12        | -5.178    | 0.9663    |
+
+Discovery Execution Time: 0:00:04.813765
+Simulation Execution Time: 0:00:08.270928
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.46  |RED: 5.08  |CED: 0.0   |CTD: 8.44  |
+| 13        | -5.083    | 0.9661    |
+
+Discovery Execution Time: 0:00:05.134448
+Simulation Execution Time: 0:00:08.492086
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.1  |RED: 5.06  |CED: 0.0   |CTD: 9.05  |
+| 14        | -5.055    | 0.9736    |
+
+Discovery Execution Time: 0:00:05.114113
+Simulation Execution Time: 0:00:08.569448
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.47  |RED: 4.71  |CED: 0.0   |CTD: 8.9   |
+| 15        | -4.712    | 0.9739    |
+
+Discovery Execution Time: 0:00:05.155282
+Simulation Execution Time: 0:00:08.147621
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.5   |RED: 4.65  |CED: 0.0   |CTD: 8.46  |
+| 16        | -4.648    | 0.9741    |
+
+Discovery Execution Time: 0:00:04.886016
+Simulation Execution Time: 0:00:07.900170
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.63  |RED: 4.69  |CED: 0.0   |CTD: 8.15  |
+| 17        | -4.691    | 0.9737    |
+
+Discovery Execution Time: 0:00:04.684008
+Simulation Execution Time: 0:00:07.716884
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.61  |RED: 4.9   |CED: 0.0   |CTD: 8.0   |
+| 18        | -4.899    | 0.9745    |
+
+Discovery Execution Time: 0:00:04.693356
+Simulation Execution Time: 0:00:07.938274
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.27  |RED: 5.12  |CED: 0.0   |CTD: 8.62  |
+| 19        | -5.116    | 0.9748    |
+
+Discovery Execution Time: 0:00:04.727617
+Simulation Execution Time: 0:00:07.873748
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.01  |RED: 4.83  |CED: 0.0   |CTD: 9.72  |
+| 20        | -4.833    | 0.9743    |
+
+Discovery Execution Time: 0:00:04.851803
+Simulation Execution Time: 0:00:08.418621
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.66  |RED: 5.06  |CED: 0.0   |CTD: 8.28  |
+| 21        | -5.058    | 0.9751    |
+
+Discovery Execution Time: 0:00:05.189115
+Simulation Execution Time: 0:00:08.501583
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.27  |RED: 4.49  |CED: 0.0   |CTD: 8.98  | <-------------------------------------------
+| 22        | -4.488    | 0.9755    |
+
+Discovery Execution Time: 0:00:04.917086
+Simulation Execution Time: 0:00:07.996897
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.66  |RED: 4.92  |CED: 0.0   |CTD: 8.63  |
+| 23        | -4.919    | 0.9757    |
+
+Discovery Execution Time: 0:00:05.029942
+Simulation Execution Time: 0:00:07.741419
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.87  |RED: 4.61  |CED: 0.0   |CTD: 8.96  |
+| 24        | -4.612    | 0.9754    |
+
+Discovery Execution Time: 0:00:04.965328
+Simulation Execution Time: 0:00:07.579758
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.52  |RED: 5.39  |CED: 0.0   |CTD: 7.59  |
+| 25        | -5.386    | 0.9658    |
+
+Discovery Execution Time: 0:00:04.794757
+Simulation Execution Time: 0:00:08.512183
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.98  |RED: 4.87  |CED: 0.0   |CTD: 8.99  |
+| 26        | -4.871    | 0.976     |
+
+Discovery Execution Time: 0:00:05.027312
+Simulation Execution Time: 0:00:08.505625
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.1   |RED: 5.09  |CED: 0.0   |CTD: 9.04  |
+| 27        | -5.087    | 0.9764    |
+
+Discovery Execution Time: 0:00:05.179443
+Simulation Execution Time: 0:00:08.165967
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.84  |RED: 4.65  |CED: 0.0   |CTD: 9.97  |
+| 28        | -4.655    | 0.9768    |
+
+Discovery Execution Time: 0:00:04.942879
+Simulation Execution Time: 0:00:07.858224
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.15  |RED: 5.05  |CED: 0.0   |CTD: 8.11  |
+| 29        | -5.054    | 0.9766    |
+
+Discovery Execution Time: 0:00:04.786038
+Simulation Execution Time: 0:00:08.026304
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.58  |RED: 5.07  |CED: 0.0   |CTD: 8.36  |
+| 30        | -5.068    | 0.977     |
+=====================================
+Best result: {'angle': 0.975522487656437}; f(x) = -4.487600240150221.
+RED - Hyperparameter Optimization
+STARTING PROCESS: loan_application (ModelType.MULTI_LOCAL)
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: True
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.896986
+Simulation Execution Time: 0:00:09.558056
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.26 |RED: 6.73  |CED: 0.0   |CTD: 7.61  |
+| 1         | -6.726    | 0.967     |
+
+Discovery Execution Time: 0:00:05.407644
+Simulation Execution Time: 0:00:09.202007
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.59  |RED: 8.9   |CED: 0.0   |CTD: 10.23 |
+| 2         | -8.898    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.599624
+Simulation Execution Time: 0:00:09.601698
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.76  |RED: 6.93  |CED: 0.0   |CTD: 8.03  |
+| 3         | -6.933    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.597893
+Simulation Execution Time: 0:00:09.405448
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.91  |RED: 6.95  |CED: 0.0   |CTD: 7.94  |
+| 4         | -6.95     | 0.7148    |
+
+Discovery Execution Time: 0:00:05.734806
+Simulation Execution Time: 0:00:09.311291
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.86  |RED: 8.09  |CED: 0.0   |CTD: 8.83  |
+| 5         | -8.086    | 0.6977    |
+
+Discovery Execution Time: 0:00:05.740490
+Simulation Execution Time: 0:00:09.200604
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.44  |RED: 7.97  |CED: 0.0   |CTD: 8.59  |
+| 6         | -7.971    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.564480
+Simulation Execution Time: 0:00:09.482911
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.51  |RED: 7.79  |CED: 0.0   |CTD: 9.22  |
+| 7         | -7.785    | 0.7148    |
+
+Discovery Execution Time: 0:00:06.466404
+Simulation Execution Time: 0:00:09.794456
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.9   |RED: 6.92  |CED: 0.0   |CTD: 7.86  |
+| 8         | -6.922    | 0.967     |
+
+Discovery Execution Time: 0:00:05.876902
+Simulation Execution Time: 0:00:09.882996
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.01 |RED: 6.94  |CED: 0.0   |CTD: 7.89  |
+| 9         | -6.939    | 0.967     |
+
+Discovery Execution Time: 0:00:05.877796
+Simulation Execution Time: 0:00:09.741995
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.73  |RED: 6.26  |CED: 0.0   |CTD: 7.81  |
+| 10        | -6.264    | 0.9671    |
+
+Discovery Execution Time: 0:00:05.999663
+Simulation Execution Time: 0:00:09.856456
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.66  |RED: 6.2   |CED: 0.0   |CTD: 8.02  |
+| 11        | -6.202    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.897871
+Simulation Execution Time: 0:00:10.514068
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.61  |RED: 6.62  |CED: 0.0   |CTD: 8.09  |
+| 12        | -6.621    | 0.9726    |
+
+Discovery Execution Time: 0:00:05.760274
+Simulation Execution Time: 0:00:09.654610
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.66  |RED: 6.82  |CED: 0.0   |CTD: 8.39  |
+| 13        | -6.823    | 0.9671    |
+
+Discovery Execution Time: 0:00:05.649165
+Simulation Execution Time: 0:00:09.834493
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.64  |RED: 6.72  |CED: 0.0   |CTD: 7.9   |
+| 14        | -6.722    | 0.967     |
+
+Discovery Execution Time: 0:00:05.786122
+Simulation Execution Time: 0:00:09.514097
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.42 |RED: 6.66  |CED: 0.0   |CTD: 8.13  |
+| 15        | -6.659    | 0.9728    |
+
+Discovery Execution Time: 0:00:05.679098
+Simulation Execution Time: 0:00:09.174164
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.08 |RED: 6.85  |CED: 0.0   |CTD: 8.0   |
+| 16        | -6.855    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.698073
+Simulation Execution Time: 0:00:09.354105
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.71  |RED: 6.01  |CED: 0.0   |CTD: 7.54  | <-------------------------------------
+| 17        | -6.015    | 0.9669    |
+
+Discovery Execution Time: 0:00:05.535413
+Simulation Execution Time: 0:00:09.289205
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.08 |RED: 6.46  |CED: 0.0   |CTD: 7.59  |
+| 18        | -6.46     | 0.9668    |
+
+Discovery Execution Time: 0:00:05.650265
+Simulation Execution Time: 0:00:09.095771
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.53 |RED: 7.24  |CED: 0.0   |CTD: 7.78  |
+| 19        | -7.239    | 0.9668    |
+
+Discovery Execution Time: 0:00:05.663970
+Simulation Execution Time: 0:00:09.227947
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.9   |RED: 6.86  |CED: 0.0   |CTD: 8.05  |
+| 20        | -6.859    | 0.9669    |
+
+Discovery Execution Time: 0:00:04.829058
+Simulation Execution Time: 0:00:08.381662
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 11.1  |RED: 13.32 |CED: 0.0   |CTD: 17.5  |
+| 21        | -13.32    | 0.2171    |
+
+Discovery Execution Time: 0:00:05.617896
+Simulation Execution Time: 0:00:09.225629
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.71  |RED: 6.85  |CED: 0.0   |CTD: 7.93  |
+| 22        | -6.852    | 0.9728    |
+
+Discovery Execution Time: 0:00:05.657371
+Simulation Execution Time: 0:00:09.209000
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.63  |RED: 6.79  |CED: 0.0   |CTD: 8.18  |
+| 23        | -6.794    | 0.973     |
+
+Discovery Execution Time: 0:00:05.664773
+Simulation Execution Time: 0:00:09.229850
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.79  |RED: 7.01  |CED: 0.0   |CTD: 7.96  |
+| 24        | -7.014    | 0.9726    |
+
+Discovery Execution Time: 0:00:05.629084
+Simulation Execution Time: 0:00:09.283372
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.63  |RED: 6.92  |CED: 0.0   |CTD: 8.15  |
+| 25        | -6.925    | 0.9668    |
+
+Discovery Execution Time: 0:00:05.666405
+Simulation Execution Time: 0:00:09.335391
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.55  |RED: 6.48  |CED: 0.0   |CTD: 8.8   |
+| 26        | -6.476    | 0.9729    |
+
+Discovery Execution Time: 0:00:05.712869
+Simulation Execution Time: 0:00:09.179060
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 10.52 |RED: 6.16  |CED: 0.0   |CTD: 8.12  |
+| 27        | -6.165    | 0.9731    |
+
+Discovery Execution Time: 0:00:05.545475
+Simulation Execution Time: 0:00:09.277694
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.54  |RED: 6.73  |CED: 0.0   |CTD: 8.15  |
+| 28        | -6.732    | 0.973     |
+
+Discovery Execution Time: 0:00:05.656049
+Simulation Execution Time: 0:00:09.217532
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.66  |RED: 6.88  |CED: 0.0   |CTD: 7.71  |
+| 29        | -6.884    | 0.9732    |
+
+Discovery Execution Time: 0:00:05.734518
+Simulation Execution Time: 0:00:09.135782
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.88  |RED: 6.44  |CED: 0.0   |CTD: 8.35  |
+| 30        | -6.439    | 0.9725    |
+=====================================
+Best result: {'angle': 0.9669312102973335}; f(x) = -6.01486988624539.
+++++++++++++++ PROBABILISTIC HYPERPARAMETER TUNNING - loan_application process +++++++++++++++++++++++
+Calendar Type 4, Even Resource Workload: False
+|   iter    |  target   |   angle   |
+-------------------------------------
+
+Discovery Execution Time: 0:00:05.773845
+Simulation Execution Time: 0:00:09.212454
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.3   |RED: 5.23  |CED: 0.0   |CTD: 8.79  |
+| 1         | -5.231    | 0.967     |
+
+Discovery Execution Time: 0:00:05.079933
+Simulation Execution Time: 0:00:08.661134
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.83  |RED: 8.52  |CED: 0.0   |CTD: 10.58 |
+| 2         | -8.524    | 0.5472    |
+
+Discovery Execution Time: 0:00:05.542355
+Simulation Execution Time: 0:00:09.265570
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.66  |RED: 5.04  |CED: 0.0   |CTD: 9.65  |
+| 3         | -5.037    | 0.9727    |
+
+Discovery Execution Time: 0:00:05.703838
+Simulation Execution Time: 0:00:09.151917
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.42  |RED: 6.97  |CED: 0.0   |CTD: 8.6   |
+| 4         | -6.975    | 0.7148    |
+
+Discovery Execution Time: 0:00:05.424353
+Simulation Execution Time: 0:00:08.891410
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.21  |RED: 6.56  |CED: 0.0   |CTD: 8.2   |
+| 5         | -6.56     | 0.6977    |
+
+Discovery Execution Time: 0:00:05.816965
+Simulation Execution Time: 0:00:09.345219
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.32  |RED: 5.6   |CED: 0.0   |CTD: 8.28  |
+| 6         | -5.598    | 0.967     |
+
+Discovery Execution Time: 0:00:05.729343
+Simulation Execution Time: 0:00:09.884759
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.64  |RED: 4.53  |CED: 0.0   |CTD: 8.88  |
+| 7         | -4.526    | 0.9728    |
+
+Discovery Execution Time: 0:00:05.624089
+Simulation Execution Time: 0:00:09.356585
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.44  |RED: 5.07  |CED: 0.0   |CTD: 9.24  |
+| 8         | -5.07     | 0.973     |
+
+Discovery Execution Time: 0:00:05.751166
+Simulation Execution Time: 0:00:09.400890
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.03  |RED: 5.21  |CED: 0.0   |CTD: 8.32  |
+| 9         | -5.212    | 0.9672    |
+
+Discovery Execution Time: 0:00:06.507920
+Simulation Execution Time: 0:00:10.370729
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.62  |RED: 5.48  |CED: 0.0   |CTD: 9.95  |
+| 10        | -5.479    | 0.9733    |
+
+Discovery Execution Time: 0:00:06.559549
+Simulation Execution Time: 0:00:10.948916
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.11  |RED: 5.29  |CED: 0.0   |CTD: 8.42  |
+| 11        | -5.286    | 0.9737    |
+
+Discovery Execution Time: 0:00:05.921596
+Simulation Execution Time: 0:00:09.742548
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 7.97  |RED: 5.85  |CED: 0.0   |CTD: 8.6   |
+| 12        | -5.852    | 0.974     |
+
+Discovery Execution Time: 0:00:05.863583
+Simulation Execution Time: 0:00:09.934592
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.88  |RED: 5.04  |CED: 0.0   |CTD: 9.24  |
+| 13        | -5.042    | 0.9677    |
+
+Discovery Execution Time: 0:00:05.771792
+Simulation Execution Time: 0:00:09.514761
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.21  |RED: 4.4   |CED: 0.0   |CTD: 9.57  |
+| 14        | -4.395    | 0.9679    |
+
+Discovery Execution Time: 0:00:05.815946
+Simulation Execution Time: 0:00:09.503442
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.03  |RED: 5.44  |CED: 0.0   |CTD: 9.28  |
+| 15        | -5.444    | 0.9682    |
+
+Discovery Execution Time: 0:00:05.649260
+Simulation Execution Time: 0:00:09.550437
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.54  |RED: 5.08  |CED: 0.0   |CTD: 8.9   |
+| 16        | -5.08     | 0.968     |
+
+Discovery Execution Time: 0:00:05.780053
+Simulation Execution Time: 0:00:09.437014
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.41  |RED: 5.03  |CED: 0.0   |CTD: 8.93  |
+| 17        | -5.034    | 0.9687    |
+
+Discovery Execution Time: 0:00:05.715452
+Simulation Execution Time: 0:00:09.378152
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.85  |RED: 4.84  |CED: 0.0   |CTD: 9.5   |
+| 18        | -4.839    | 0.969     |
+
+Discovery Execution Time: 0:00:05.650720
+Simulation Execution Time: 0:00:09.431623
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.53  |RED: 5.1   |CED: 0.0   |CTD: 9.2   |
+| 19        | -5.103    | 0.9692    |
+
+Discovery Execution Time: 0:00:05.632395
+Simulation Execution Time: 0:00:09.230271
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 9.16  |RED: 5.29  |CED: 0.0   |CTD: 8.79  |
+| 20        | -5.292    | 0.9696    |
+
+Discovery Execution Time: 0:00:05.668730
+Simulation Execution Time: 0:00:09.285428
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.7   |RED: 4.54  |CED: 0.0   |CTD: 9.03  |
+| 21        | -4.538    | 0.9702    |
+
+Discovery Execution Time: 0:00:05.712246
+Simulation Execution Time: 0:00:09.261726
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.71  |RED: 4.87  |CED: 0.0   |CTD: 9.47  |
+| 22        | -4.868    | 0.9704    |
+
+Discovery Execution Time: 0:00:05.687593
+Simulation Execution Time: 0:00:09.298373
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.06  |RED: 5.2   |CED: 0.0   |CTD: 8.08  |
+| 23        | -5.201    | 0.9699    |
+
+Discovery Execution Time: 0:00:05.611264
+Simulation Execution Time: 0:00:09.133690
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.23  |RED: 5.54  |CED: 0.0   |CTD: 8.12  |
+| 24        | -5.54     | 0.9706    |
+
+Discovery Execution Time: 0:00:05.391757
+Simulation Execution Time: 0:00:08.899173
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 8.25  |RED: 7.54  |CED: 0.0   |CTD: 9.07  |
+| 25        | -7.544    | 0.7095    |
+
+Discovery Execution Time: 0:00:04.561179
+Simulation Execution Time: 0:00:07.804758
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 11.31 |RED: 14.09 |CED: 0.0   |CTD: 20.31 |
+| 26        | -14.09    | 0.00127   |
+
+Discovery Execution Time: 0:00:05.340229
+Simulation Execution Time: 0:00:09.160465
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 7.7   |RED: 5.1   |CED: 0.0   |CTD: 7.93  |
+| 27        | -5.101    | 0.8279    |
+
+Discovery Execution Time: 0:00:05.541110
+Simulation Execution Time: 0:00:09.019581
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 7.47  |RED: 5.24  |CED: 0.0   |CTD: 7.06  |
+| 28        | -5.236    | 0.8272    |
+
+Discovery Execution Time: 0:00:05.558119
+Simulation Execution Time: 0:00:09.006768
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 7.47  |RED: 5.37  |CED: 0.0   |CTD: 7.49  |
+| 29        | -5.373    | 0.8287    |
+
+Discovery Execution Time: 0:00:05.537745
+Simulation Execution Time: 0:00:09.039213
+|           |MTR: 0.0   |TAR: 0.0   |WTR: 0.0   |
+|           |AED: 7.69  |RED: 5.36  |CED: 0.0   |CTD: 7.39  |
+| 30        | -5.364    | 0.8265    |
+=====================================
+Best result: {'angle': 0.9678760170910096}; f(x) = -4.395444011907917.
